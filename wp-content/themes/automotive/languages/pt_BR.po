@@ -1,0 +1,1787 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Automotive Translation 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Tue Aug 16 2016 11:49:21 GMT-0300 (Hora oficial do Brasil)\n"
+"Last-Translator: loja <doadijunior@gmail.com>\n"
+"Language-Team: \n"
+"Language: Portuguese (Brazil)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: pt_BR"
+
+msgid " Category"
+msgstr "Categoría"
+
+msgid " Hide in Search Module."
+msgstr "Não mostrar no módulo de busca:"
+
+msgid " and insert the alphanumeric key in the input field."
+msgstr "e inserir a chave alfanumérica no campo de entrada."
+
+msgid " has successfully imported "
+msgstr "importado com sucesso"
+
+msgid " images in  gallery"
+msgstr "imagens na Galeria"
+
+msgid " listings as "
+msgstr "Listado como:"
+
+msgid ""
+" listings that were skipped because they already exist from a previous "
+"import."
+msgstr "anúncio omitido pois já existe outro."
+
+msgid " status under Inventory."
+msgstr "estado sob inventario."
+
+msgid " to obtain your API key"
+msgstr "para obter sua chave de API"
+
+msgid " to see your imported listings."
+msgstr "para ver seus anúncios importados."
+
+msgid " with Stock Number #"
+msgstr " com número de estoque #"
+
+msgid "$"
+msgstr "$"
+
+msgid "% Comments"
+msgstr "% Comentários"
+
+msgid "%s Form & PayPal Configuration"
+msgstr "%s Configuração de PayPal"
+
+msgid "%s Theme Options"
+msgstr "Opções do tema %s"
+
+msgid "0.99"
+msgstr "0.99"
+
+msgid "1. Name this import schedule."
+msgstr "1. Nomeie esta importação."
+
+msgid "1. Select the type of file to import."
+msgstr "1. Selecione o tipo de arquivo para importar."
+
+msgid "1180 Seven Seas Dr, Lake Buena Vista, FL 32830"
+msgstr "1180 Seven Seas Dr, Lake Buena Vista, FL 32830"
+
+msgid "1990"
+msgstr "1990"
+
+msgid "2. Schedule Status."
+msgstr "2. Estatus do agendamento"
+
+msgid "2. Select your file and click Upload File"
+msgstr "Selecione o arquivo para carregar"
+
+msgid "3. Click continue to map your fields."
+msgstr "3. Clique continue para mapear seus campos."
+
+msgid "3. Select the type of file to import."
+msgstr "3. Selecione o tipo de arquivo para importar."
+
+msgid "4. Specify frequency of scheduler (hours)"
+msgstr "4.  Especifique a frequência do agendamento"
+
+msgid "404 Page Not Found!"
+msgstr "404 Página não encontrada!"
+
+msgid "4WD-AWD"
+msgstr "4WD-AWD"
+
+msgid "5. Specify your file URL"
+msgstr "5. Especificar o endereço (URL) de seu arquivo"
+
+msgid "6. Click continue to map your fields."
+msgstr "3. Clique continue para mapear seus campos."
+
+msgid "<p>1180 Seven Seas Dr<br/>Lake Buena Vista, FL 32830</p"
+msgstr "<p>1180 Seven Seas Dr<br/>Lake Buena Vista, FL 32830</p"
+
+msgid ""
+"<strong>Enter Vehicle Specifications title:</strong> <br/>(leave empty to "
+"hide) "
+msgstr ""
+"<strong> Introduza o título do segundo módulo: </ strong> <br/> (deixe em "
+"branco para ocultar)"
+
+msgid "<strong>Enter title for fourth module:</strong> <br/>(leave empty to hide)"
+msgstr ""
+"<strong>Introduza o título do quarto módulo:</strong> <br/>(deixe em branco "
+"para ocultar)"
+
+msgid "<strong>Enter title for second module:</strong> <br/>(leave empty to hide)"
+msgstr ""
+"<strong>Introduza o título do segundo módulo:</strong> <br/>(deixe em branco "
+"para ocultar)"
+
+msgid "API Key Updated!"
+msgstr "API Key atualizado!"
+
+msgid "Accordion widget in listing page "
+msgstr "Widget de accordion listado na página"
+
+msgid "Action"
+msgstr "Ação"
+
+msgid "Active"
+msgstr "Ativo "
+
+msgid "Add New Features"
+msgstr "Adicionar características"
+
+msgid "Add New Location"
+msgstr "Adicionar nova localização"
+
+msgid "Add New Make & Model"
+msgstr "Adicionar nova marca e modelo"
+
+msgid "Add New Vehicle"
+msgstr "Adicionar novo veículo"
+
+msgid "Add all Automotive widgets here"
+msgstr "Adicionar todos widgets automotivos aqui"
+
+msgid "Address: "
+msgstr "Endereço: "
+
+msgid "All Features"
+msgstr "Todas características"
+
+msgid "All Locations"
+msgstr "Todas localizações"
+
+msgid "All Make & Models"
+msgstr "Todas marcas e modelos"
+
+msgid "Anti Theft Alarm System"
+msgstr "Alarme"
+
+msgid "Anti Theft Alarm System:"
+msgstr "Alarme:"
+
+msgid "Antilock Braking System"
+msgstr "Sistema de freios anti-bloqueio"
+
+msgid "Antilock Braking System:"
+msgstr "Sistema de freios anti-bloqueio:"
+
+msgid "Any price"
+msgstr "Qualquer preço"
+
+msgid "Appearance"
+msgstr "Aparência"
+
+msgid "Audio Control on Steering Wheel"
+msgstr "Controle de som no volante"
+
+msgid "Audio Control on Steering Wheel:"
+msgstr "Controle de som no volante"
+
+msgid "Auto Dimming Rearview Mirror"
+msgstr "Auto escurecimento espelho retrovisor"
+
+msgid "Auto Dimming Rearview Mirror:"
+msgstr "Auto escurecimento espelho retrovisor:"
+
+msgid "Automatic"
+msgstr "Automático"
+
+msgid "Automatically add paragraphs"
+msgstr "Adicionar parágrafos automaticamente"
+
+msgid "Automotive Carousel"
+msgstr "Carrousel"
+
+msgid "Automotive Search Options Setup"
+msgstr "Configurações de pesquisa"
+
+msgid "Automotive Sidebar"
+msgstr "Barra lateral"
+
+msgid "Automotive Top Deals"
+msgstr "Melhores ofertas"
+
+msgid "Automotive by "
+msgstr "Thema por"
+
+msgid "Automotive: Featured Vehicles Module"
+msgstr "Automotive: Módulo de veículos recomendados"
+
+msgid "Automotive: Loan Calculator"
+msgstr "Automotive: Calculadora de financiamento"
+
+msgid "BACK TO TOP"
+msgstr "Voltar para cima."
+
+msgid "Bore"
+msgstr "Diâmetro:"
+
+msgid "Bore:"
+msgstr "Diâmetro:"
+
+msgid "Braking Assist"
+msgstr "Sistema de anti bloqueio dos freios"
+
+msgid "Braking Assist:"
+msgstr "Sistema de anti bloqueio dos freios:"
+
+msgid "Business phone number in header"
+msgstr "Número do telefone posição \"header\""
+
+msgid "Buttons Background Color"
+msgstr "Cor de fundo dos Botões"
+
+msgid "Buttons background color"
+msgstr "Cor de fundo dos botões"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Camshaft"
+msgstr "Eixo de comando"
+
+msgid "Camshaft:"
+msgstr "Eixo de comando:"
+
+msgid "Car Dealer Import Primary Key"
+msgstr "Revenda importação de chaves primárias"
+
+msgid "Car Dealer Meta Fields"
+msgstr "Revenda campos meta"
+
+msgid "Car Dealer Photo Gallery"
+msgstr "Galería de Fotos"
+
+msgid "Car Dealer Post Title"
+msgstr "Título da publicação"
+
+msgid "Car Dealer Taxonomy"
+msgstr "Taxonomía"
+
+msgid "Car Dealer XML-CSV Batch Vehicle Import"
+msgstr "Importar CSV XML "
+
+msgid "Car Dealer XML-CSV Batch Vehicle Import Scheduler"
+msgstr "Importar CSV XML agendada"
+
+msgid "Car Dealer XML-CSV Batch Vehicle Import Schedules"
+msgstr "Agendar importação CSV XML "
+
+msgid "Carfax Parner ID"
+msgstr "Carfax Socio ID:"
+
+msgid "Carfax Partner ID:"
+msgstr "Carfax Socio ID:"
+
+msgid "Cargo Area Power Outlet"
+msgstr "Tomada para carregador"
+
+msgid "Cargo Area Power Outlet:"
+msgstr "Tomada para carregador:"
+
+msgid "City"
+msgstr "Cidade"
+
+msgid "City (Select State First)"
+msgstr "Cidade (selecione primeiro)"
+
+msgid "Clear form"
+msgstr "Limpar formulário"
+
+msgid "Click here to setup your VIN Decoder"
+msgstr "Clique aqui para configurar o  decodificador de VIN"
+
+msgid "Comments"
+msgstr "Comentários"
+
+msgid "Comments are closed."
+msgstr "Comentários desativados"
+
+msgid "Compression Ratio"
+msgstr "Taxa de compressão"
+
+msgid "Compression Ratio:"
+msgstr "Taxa de compressão:"
+
+msgid "Condition"
+msgstr "Condição"
+
+msgid "Condition:"
+msgstr "Condição:"
+
+msgid "Contact Us"
+msgstr "Contate-nos"
+
+msgid "Contact:"
+msgstr "Contato:"
+
+msgid "Convertibles"
+msgstr "Conversível"
+
+msgid "Copy & Paste the generated code into your Craigslist ad."
+msgstr "Copiar e colar o código gerado dentro do Craiglist."
+
+msgid "Craigslist Code:"
+msgstr "Código do Craigslist:"
+
+msgid "Crossovers"
+msgstr "Crossover"
+
+msgid "Cruise Control"
+msgstr "Piloto automático"
+
+msgid "Cruise Control on Steering Wheel"
+msgstr "Piloto automático no volante"
+
+msgid "Cruise Control on Steering Wheel:"
+msgstr "Piloto automático no volante:"
+
+msgid "Cruise Control:"
+msgstr "Alerta de velocidade"
+
+msgid "Curb Weight"
+msgstr "Peso total"
+
+msgid "Curb Weight:"
+msgstr "Peso total:"
+
+msgid "Currency:"
+msgstr "Moeda:"
+
+msgid "Cylinders"
+msgstr "Cilindros"
+
+msgid "Cylinders:"
+msgstr "Cilindros:"
+
+msgid "Dashboard"
+msgstr "Painel"
+
+msgid "Date Created"
+msgstr "Data de registro"
+
+msgid "Date Last Processed"
+msgstr "Ultima data processada"
+
+msgid "Date Updated"
+msgstr "Data de atualização"
+
+msgid "Deal of the Week"
+msgstr "Oferta da semana"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Description:"
+msgstr "Descrição:"
+
+msgid "Diesel Engines"
+msgstr "Motores diesel"
+
+msgid "Directions"
+msgstr "Direção"
+
+msgid "Down Payment: "
+msgstr "Pagamento inicial:"
+
+msgid "Drive"
+msgstr "Tração"
+
+msgid "Drive:"
+msgstr "Tração:"
+
+msgid "EPA City MPG."
+msgstr "Consumo Urbano aprox."
+
+msgid "EPA City MPG:"
+msgstr "Consumo Urbano:"
+
+msgid "EPA Highway MPG."
+msgstr "Consumo estrada aprox."
+
+msgid "EPA Highway MPG:"
+msgstr "Consumo estrada:"
+
+msgid "EPA Mileage"
+msgstr "Kilometragem"
+
+msgid "Edit Features"
+msgstr "Editar características"
+
+msgid "Edit Locations"
+msgstr "Editar localização"
+
+msgid "Edit Make & Model"
+msgstr "Editar marca e modelo"
+
+msgid "Edit Vehicle"
+msgstr "Editar Veículo"
+
+msgid "Edmunds Developer Portal"
+msgstr "Portal desenvolvimento Edmunds"
+
+msgid "Edmunds Public API Key"
+msgstr "Chave de API pública de Edmunds"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Engine Size"
+msgstr "Motor"
+
+msgid "Engine Size:"
+msgstr "Motor (1.0, 1.4, 1.6...):"
+
+msgid "Engine Tye:"
+msgstr "Tipo do motor (em linha, em V...)"
+
+msgid "Engine Type"
+msgstr "Tamaño del motor"
+
+msgid "Enter Anti Theft Alarm System"
+msgstr "Tipo do sistema de alarme:"
+
+msgid "Enter Antilock Braking System"
+msgstr "Tipo do sistema de freios"
+
+msgid "Enter Audio Control on Steering Wheel"
+msgstr "Tipo do controle de áudio no volante"
+
+msgid "Enter Auto Dimming Rearview Mirror"
+msgstr "Tipo de escurecimento do espelho retrovisor"
+
+msgid "Enter Braking Assist"
+msgstr "Sistema de assistência de freios"
+
+msgid "Enter Carfax partner ID to offer free reports with your vehicle."
+msgstr ""
+"Digite o ID Carfax para oferecer relatórios grátis com o seu veículo "
+"anunciado."
+
+msgid "Enter Cargo Area Power Outlet"
+msgstr "Digite o tipo de tomada de carregador"
+
+msgid "Enter Cruise Control"
+msgstr "Digite o alerta de velocidade"
+
+msgid "Enter Cruise Control on Steering Wheel"
+msgstr "Digite o tipo de controle de velocidade no volante"
+
+msgid "Enter EPA City MPG."
+msgstr "Digite o consumo urbano"
+
+msgid "Enter EPA Highway MPG."
+msgstr "Digite o consumo em estrada"
+
+msgid "Enter First Row Power Outlet"
+msgstr "Número de tomadas para carregador nos primeiros assentos:"
+
+msgid "Enter First Row Vanity Mirrors"
+msgstr "Tipo de espelhos do quebra-sol dianteiros"
+
+msgid "Enter Folding Second Row Seats"
+msgstr "Número de assentos da segunda fileira"
+
+msgid "Enter Front Air Conditioning"
+msgstr "Tipo do ar condicionado dianteiro"
+
+msgid "Enter Front Brake Type"
+msgstr "Tipo de freio dianteiro"
+
+msgid "Enter Front Suspension Type"
+msgstr "Tipo de suspensão dianteira"
+
+msgid "Enter Heated Driver Side Mirror"
+msgstr "Espelho retrovisor lateral motorista aquecido"
+
+msgid "Enter Heated Passenger Side Mirror"
+msgstr "Espelho retrovisor lateral passageiro aquecido"
+
+msgid "Enter Independent Suspension"
+msgstr "Tipo suspensão independente"
+
+msgid "Enter Maximum Cargo Capacity Suspension"
+msgstr "Carga máxima para a suspensão"
+
+msgid "Enter Passenger Airbags"
+msgstr "Air bag passageiro:"
+
+msgid "Enter Power Door Locks"
+msgstr "Trava elétrica de portas"
+
+msgid "Enter Rear Brake Diameter"
+msgstr "Diâmetro freio traseiro:"
+
+msgid "Enter Rear Suspension Type"
+msgstr "Tipo suspensão traseira"
+
+msgid "Enter Roof Rack"
+msgstr "Rack no teto"
+
+msgid "Enter Running Boards"
+msgstr "Estribos"
+
+msgid "Enter Trailer Hitch"
+msgstr "Engate de reboque"
+
+msgid "Enter Trailer Wiring"
+msgstr "Cadeado de reboque"
+
+msgid "Enter VIN number"
+msgstr "Número VIN"
+
+msgid "Enter Vehicle Year, Make & Model"
+msgstr "Digite ano, marca e modelo"
+
+msgid "Enter exterior color"
+msgstr "Cor exterior"
+
+msgid "Enter interior color"
+msgstr "Cor interior"
+
+msgid "Enter keywords..."
+msgstr "Buscar…"
+
+msgid "Enter listing title"
+msgstr "Título do anúncio"
+
+msgid "Enter number here..."
+msgstr "Digite número aqui"
+
+msgid "Enter number of cylinders."
+msgstr "Digite cilindros."
+
+msgid "Enter security code"
+msgstr "Digite código de segurança"
+
+msgid "Enter the Vehicle Type."
+msgstr "Digite tipo de veículo."
+
+msgid "Enter the full vehicle price without commas or dots."
+msgstr "Digite o valor sem vírgulas ou pontos."
+
+msgid "Enter title for third module:</strong> <br/>(leave empty to hide)"
+msgstr ""
+"Digite título do terceiro módulo: </ strong> <br/> (deixe em branco para "
+"ocultar)"
+
+msgid "Enter vehicle condition."
+msgstr "Digite a condição do veículo."
+
+msgid "Enter vehicle curb weight"
+msgstr "Digite o peso total do veículo"
+
+msgid "Enter vehicle drive"
+msgstr "Digite o câmbio."
+
+msgid "Enter vehicle drive type."
+msgstr "Digite o tipo de câmbio."
+
+msgid "Enter vehicle engine size."
+msgstr "Digite o motor."
+
+msgid "Enter vehicle engine type."
+msgstr "Digite o tipo de motor."
+
+msgid "Enter vehicle exterior color."
+msgstr "Digite a cor exterior."
+
+msgid "Enter vehicle fuel capacity."
+msgstr "Digite a capacidade do tanque de combustível."
+
+msgid "Enter vehicle head room."
+msgstr "Digite a altura do assento do motorista."
+
+msgid "Enter vehicle height."
+msgstr "Digite a altura do veículo."
+
+msgid "Enter vehicle horsepower."
+msgstr "Digite a potência (cv)."
+
+msgid "Enter vehicle identification number."
+msgstr "Número de identificação."
+
+msgid "Enter vehicle interior color."
+msgstr "Cor interior."
+
+msgid "Enter vehicle leg room"
+msgstr "Digite o espaço para pernas"
+
+msgid "Enter vehicle listing description."
+msgstr "Descrição de seu veículo"
+
+msgid "Enter vehicle mileage."
+msgstr "Kilometragem."
+
+msgid "Enter vehicle miles"
+msgstr "Kilometragem"
+
+msgid "Enter vehicle overall length"
+msgstr "Comprimento do veículo"
+
+msgid "Enter vehicle price"
+msgstr "Digite o valor do veículo"
+
+msgid "Enter vehicle seating capacity"
+msgstr "Digite o número de assentos"
+
+msgid "Enter vehicle stock number."
+msgstr "Insira o número do estoque do veículo."
+
+msgid "Enter vehicle tires."
+msgstr "Inserir pneus do veículo."
+
+msgid "Enter vehicle transmission type."
+msgstr "Insira o tipo de transmissão."
+
+msgid "Enter vehicle wheelbase"
+msgstr "Distância entre-eixos"
+
+msgid "Enter vehicle width"
+msgstr "Insira a altura do veículo"
+
+msgid "Enter vehicle year."
+msgstr "Digite o ano."
+
+msgid "Enter your e-mail"
+msgstr "Digite seu e-mail"
+
+msgid "Enter your first name"
+msgstr "Insira seu primeiro nome"
+
+msgid "Enter your full alphanumeric key."
+msgstr "Insira seu código alpha-numérico."
+
+msgid "Enter your last name"
+msgstr "Insira seu sobrenome"
+
+msgid "Enter your phone number"
+msgstr "Insira seu telefone."
+
+msgid "Epa Mileage:"
+msgstr "Km/L:"
+
+msgid "Exterior"
+msgstr "Exterior"
+
+msgid "Exterior:"
+msgstr "Exterior:"
+
+msgid "Facebook Profile"
+msgstr "Perfil do Facebook"
+
+msgid "Featured"
+msgstr "Destacado"
+
+msgid "Featured Post"
+msgstr "Post destacado"
+
+msgid "Featured Vehicles"
+msgstr "Veículos Destacados"
+
+msgid "Featured Vehicles Module in Single Listing Page"
+msgstr "Módulo de veículos recomendados na página de lista única"
+
+msgid "Featured vehicles widget"
+msgstr "Widget de veículos recomendados"
+
+msgid "Featured:"
+msgstr "Destaque:"
+
+msgid "Features"
+msgstr "Caracteristicas"
+
+msgid "Features:"
+msgstr "Características:"
+
+msgid "Fields"
+msgstr "Campos"
+
+msgid "File"
+msgstr "Arquivo"
+
+msgid "File Import Fields"
+msgstr "1. Selecione o tipo de arquivo para importar."
+
+msgid "Filter By Stock Number"
+msgstr "Filtrar por número de estoque"
+
+msgid "Find by Vehicle Type"
+msgstr "Buscar por tipo de veículo"
+
+msgid "First Name"
+msgstr "Nome"
+
+msgid "First Row Power Outlet"
+msgstr "Tomada para carregador na primeira fileira"
+
+msgid "First Row Power Outlet:"
+msgstr "Tomada para carregador na primeira fileira:"
+
+msgid "First Row Vanity Mirrors"
+msgstr "Espelhos retrovisores dianteiros"
+
+msgid "First Row Vanity Mirros:"
+msgstr "Espelhos retrovisores dianteiros:"
+
+msgid "First name"
+msgstr "Primeiro nome"
+
+msgid "Folding Second Row Seats"
+msgstr "Bancos traseiros rebatíveis"
+
+msgid "Folding Second Row Seats:"
+msgstr "Bancos traseiros rebatíveis:"
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Footer widgets"
+msgstr "Footer widgets"
+
+msgid "Front Air Conditioning"
+msgstr "Ar condicionado dianteiro"
+
+msgid "Front Air Conditioning:"
+msgstr "Ar condicionado dianteiro:"
+
+msgid "Front Brake Type"
+msgstr "Tipo dos freios dianteiros"
+
+msgid "Front Brake Type:"
+msgstr "Tipo dos freios dianteiros:"
+
+msgid "Front Suspension Type"
+msgstr "Tipo de suspensão dianteira"
+
+msgid "Fuel Capacity"
+msgstr "Capacidade de combustível"
+
+msgid "Fuel Capacity:"
+msgstr "Capacidade de combustível:"
+
+msgid "Go to "
+msgstr "Ir para"
+
+msgid "Google+ Profile"
+msgstr "Perfil do Google+"
+
+msgid "Gtalk"
+msgstr "Gtalk"
+
+msgid "Head Room"
+msgstr "Espaço para cabeça"
+
+msgid "Head Room:"
+msgstr "Espaço para cabeça:"
+
+msgid "Header Phone Number"
+msgstr "Telefone posição Header"
+
+msgid "Headers Color"
+msgstr "Color da posição Header"
+
+msgid "Headers Text Color"
+msgstr "Cor do texto na posição Header"
+
+msgid "Heated Driver Passenger Mirror"
+msgstr "Espelho retrovisor desembaçante"
+
+msgid "Heated Driver Passenger Mirror:"
+msgstr "Espelho retrovisor desembaçante:"
+
+msgid "Heated Driver Side Mirror"
+msgstr "Espelho retrovisor desembaçante"
+
+msgid "Heated Driver Side Mirror:"
+msgstr "Espelho retrovisor desembaçante:"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Height:"
+msgstr "Altura:"
+
+msgid "Hide in Search Module."
+msgstr "Esconder no Módulo de pesquisa."
+
+msgid "Hierarchy"
+msgstr "Hierarquia"
+
+msgid "Homepage Slideshow"
+msgstr "Slideshow da página principal"
+
+msgid "Horsepower"
+msgstr "Cv"
+
+msgid "Horsepower:"
+msgstr "Cv:"
+
+msgid "Hybrids"
+msgstr "Híbridos"
+
+msgid "I would like to request more information about your"
+msgstr "Eu gostaria de mais informações sobre"
+
+msgid ""
+"If YES selected the image of this post will be displayed in the home "
+"slideshow."
+msgstr "Se escolher SIM, esta imagem será mostrada no Carroussel"
+
+msgid "If yes this Vehicle will show up on the Top Deals Widget."
+msgstr "Se selecionar SIM, este veículo será mostrado no widget de ofertas."
+
+msgid "If yes this Vehicle will show up on the home page featured module."
+msgstr "Se selecionar SIM, esta veículo será mostrado no módulo de destaque."
+
+msgid ""
+"If you notice that some of your listings do not have photos attached it is "
+"because they were not found in the database."
+msgstr ""
+"Se notar que alguns dos seus anúncios não contém imagem é porque não estão "
+"no banco de dados."
+
+msgid "Image Gallery &raquo;"
+msgstr "Galeria de imagens»"
+
+msgid ""
+"Images will be automatically resized to fit the listing layout. We recommend "
+"that you upload photos in full resolution for better results."
+msgstr ""
+"Imagens serão automaticamente redimensionadas para caber no layout de "
+"listagem. Recomendamos que você faça upload de fotos em resolução maior para "
+"melhores resultados."
+
+msgid "Import Primary Key"
+msgstr "Importar chave primaria"
+
+msgid "Inactive"
+msgstr "Inativo"
+
+msgid "Independent Suspension"
+msgstr "Suspensão independente"
+
+msgid "Independent Suspension:"
+msgstr "Suspensão independente:"
+
+msgid "Insert API key..."
+msgstr "Insira chave API..."
+
+msgid "Insert Image into Input Field"
+msgstr "Inserir Imagem no Campo de Entrada"
+
+msgid "Interest Rate: "
+msgstr "Taxa de interesse:"
+
+msgid "Interior"
+msgstr "Interior"
+
+msgid "Interior:"
+msgstr "Interior:"
+
+msgid "Inventory"
+msgstr "Inventario"
+
+msgid "Is there a Primary Key?"
+msgstr "Existe uma chave primária?"
+
+msgid "Last name"
+msgstr "Sobrenome"
+
+msgid "Learn more"
+msgstr "Ver mais"
+
+msgid "Leave A Reply"
+msgstr "Deixar uma resposta"
+
+msgid "Leave a reply"
+msgstr "Deixar uma resposta"
+
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+msgid "Leg Room"
+msgstr "Espaço para pernas"
+
+msgid "Leg Room:"
+msgstr "Espaço para pernas:"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Listing Price:"
+msgstr "Lista de preços:"
+
+msgid "Loan Term: "
+msgstr "Parcelas"
+
+msgid "Location"
+msgstr "Localização"
+
+msgid "Location:"
+msgstr "Localização:"
+
+msgid "Log out"
+msgstr "Encerrar sessão"
+
+msgid "Logged in as "
+msgstr "Conectado como "
+
+msgid "Logo text Color"
+msgstr "Cor do texto do logo"
+
+msgid "Luxury Vehicles"
+msgstr "Veículos de luxo"
+
+msgid "Mail*"
+msgstr "E-mail*"
+
+msgid "Main menu background color."
+msgstr "Cor de fundo do menu principal"
+
+msgid "Main menu text color."
+msgstr "Cor do menu principal"
+
+msgid "Make"
+msgstr "Marca"
+
+msgid "Make & Model"
+msgstr "Marca e Modelo"
+
+msgid "Make & Model:"
+msgstr "Marca e Modelo:"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "Maximum Cargo Capacity Suspension"
+msgstr "Capacidade de carga máxima da suspensão"
+
+msgid "Maximum Cargo Capacity Suspension:"
+msgstr "Capacidade de carga máxima da suspensão:"
+
+msgid "Menu Background"
+msgstr "Fundo do menu"
+
+msgid "Menu Text"
+msgstr "Texto do menu"
+
+msgid "Message"
+msgstr "Mensagem"
+
+msgid "Miles"
+msgstr "Kilometros"
+
+msgid "Miles:"
+msgstr "Kilometros:"
+
+msgid "Minivans and Vans"
+msgstr "Vans e minivans"
+
+msgid "Model"
+msgstr "Modelo"
+
+msgid "Model (Select Make First)"
+msgstr "Selecione Modelo"
+
+msgid "Monthly Payment:  "
+msgstr "Parcela mensal:"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Name*"
+msgstr "Nome*"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "New Arrivals"
+msgstr "Novidade"
+
+msgid "New Features"
+msgstr "Novas características"
+
+msgid "New Location"
+msgstr "Novo destino"
+
+msgid "New Make & Model"
+msgstr "Nova marca e modelo"
+
+msgid "News"
+msgstr "Novidades"
+
+msgid "No"
+msgstr "Não"
+
+msgid "No Comments"
+msgstr "Sem comentários"
+
+msgid "No Results Found"
+msgstr "Pesquisa sem resultados"
+
+msgid "No Vehicles Found"
+msgstr "Nenhum veículo encontrado"
+
+msgid "No Vehicles Found In Trash"
+msgstr "Nenhum veículo encontrado na lixeira"
+
+msgid "No, Results Found"
+msgstr "Sem resultados"
+
+msgid "None"
+msgstr "Nenhum"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Number of Vehicles:"
+msgstr "Número de veículos:"
+
+msgid "Number of listings: "
+msgstr "Numero de Anúncios:"
+
+msgid "Number of vehicles"
+msgstr "Número de veículos"
+
+msgid "Number of vehicles."
+msgstr "Número de veículos."
+
+msgid "Office"
+msgstr "Loja"
+
+msgid "One Comment"
+msgstr "Um comentário"
+
+msgid "Option 10:"
+msgstr "Opção 10:"
+
+msgid "Option 11:"
+msgstr "Opção 11:"
+
+msgid "Option 12:"
+msgstr "Opção 12:"
+
+msgid "Option 1:"
+msgstr "Opção 1:"
+
+msgid "Option 2:"
+msgstr "Opção 2:"
+
+msgid "Option 3:"
+msgstr "Opção 3:"
+
+msgid "Option 4:"
+msgstr "Opção 4"
+
+msgid "Option 5:"
+msgstr "Opção: 5"
+
+msgid "Option 6:"
+msgstr "Opção 6:"
+
+msgid "Option 7:"
+msgstr "Opção 7:"
+
+msgid "Option 8:"
+msgstr "Opção 8:"
+
+msgid "Option 9:"
+msgstr "Opção 9:"
+
+msgid "Other"
+msgstr "Outro"
+
+msgid "Overall Length"
+msgstr "Comprimento total"
+
+msgid "Overall Length:"
+msgstr "Comprimento total:"
+
+msgid "Overview"
+msgstr "Visão geral"
+
+msgid "Pages"
+msgstr "Páginas "
+
+msgid "Parent Features"
+msgstr "Características principais"
+
+msgid "Parent Locations"
+msgstr "Locais principais"
+
+msgid "Parent Make & Model"
+msgstr "Marca e Modelo:"
+
+msgid "Passenger Airbags"
+msgstr "Air bag passageiro"
+
+msgid "Passenger Airbags:"
+msgstr "Air bag passageiro:"
+
+msgid "PayPal E-mail Account:"
+msgstr "E-mail de PayPal"
+
+msgid "PayPal Intro Message:"
+msgstr "Mensagem de introdução do PayPal:"
+
+msgid "Personal Information &raquo;"
+msgstr "Informações pessoais »"
+
+msgid "Phone"
+msgstr "Telefone"
+
+msgid "Phone Number: "
+msgstr "Número de telefone:"
+
+msgid "Phone number"
+msgstr "Número de telefone"
+
+msgid "Phone: "
+msgstr "Telefone:"
+
+msgid "Photo Gallery"
+msgstr "Galeria de Fotos"
+
+msgid "Pickup Trucks"
+msgstr "Camionetes"
+
+msgid "Pinterest Profile"
+msgstr "Perfil do Pinterest"
+
+msgid "Please Wait Message:"
+msgstr "Por favor espere (mensagem)"
+
+msgid "Please click "
+msgstr "Por favor clique"
+
+msgid ""
+"Please follow the instructions below to import your existing vehicles into "
+"your Inventory."
+msgstr ""
+"Por favor, siga as instruções abaixo para importar seus veículos existentes "
+"em seu inventário."
+
+msgid ""
+"Please follow the instructions below to schedule your vehicle import into "
+"Car Dealer theme."
+msgstr ""
+"Por favor siga as seguintes instruções para programar sua importação de "
+"veículo no tema Automotive."
+
+msgid ""
+"Please follow the instructions below to schedule your vehicle import into "
+"Your Inventory."
+msgstr ""
+"Por favor siga as seguintes instruções para programar a importação de "
+"veículos em seu inventário."
+
+msgid "Please insert API Key!"
+msgstr "Por favor insira chave API!"
+
+msgid "Please is a list of your vehicle import schedules for Car Dealer theme."
+msgstr ""
+"Por favor siga as seguintes instruções para programar sua importação de "
+"veículos"
+
+msgid "Please use the button below to complete your payment."
+msgstr "Utilize o botão abaixo para completar seu pagamento."
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Posts"
+msgstr "Posts"
+
+msgid "Power Door Locks"
+msgstr "Travas elétricas"
+
+msgid "Power Door Locks:"
+msgstr "Travas elétricas:"
+
+msgid "Powered by "
+msgstr "Feito por %s."
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Price"
+msgstr "Valor"
+
+msgid "Price:"
+msgstr "Valor:"
+
+msgid "Primary Key Field"
+msgstr "Campo da chave primária"
+
+msgid "Primary theme text color."
+msgstr "Cor do texto principal"
+
+msgid "Purchase Type"
+msgstr "Tipo de compra"
+
+msgid "Purchase price: "
+msgstr "Valor da compra"
+
+msgid "Read more"
+msgstr "Ver mais"
+
+msgid "Rear Brake Diameter"
+msgstr "Diâmetro do freio traseiro"
+
+msgid "Rear Brake Diameter:"
+msgstr "Diâmetro do freio traseiro:"
+
+msgid "Rear Suspension Type"
+msgstr "Tipo de suspensão traseira"
+
+msgid "Rear Suspension Type:"
+msgstr "Tipo de suspensão traseira:"
+
+msgid "Redirection Page:"
+msgstr "Página de redirecionamento:"
+
+msgid "Reduced"
+msgstr "Rebaixado"
+
+msgid ""
+"Register a free account on Edmunds website to get your public API key in "
+"order to operate the VIN Decoder."
+msgstr ""
+"Registre uma conta gratuita em Edmunds para obter sua chave de API pública "
+"para funcionar o decodificador de VIN."
+
+msgid ""
+"Rename labels and options for the search module and hide-show each field in "
+"the form."
+msgstr ""
+"Renomear rótulos e opções para o módulo de pesquisa e esconder/mostrar cada "
+"campo no formulário."
+
+msgid "Request Information"
+msgstr "Solicitar informações"
+
+msgid "Roof Rack"
+msgstr "Porta objetos teto"
+
+msgid "Roof Rack:"
+msgstr "Porta objetos teto:"
+
+msgid "Running Boards"
+msgstr "Estribos"
+
+msgid "Running Boards:"
+msgstr "Estribos:"
+
+msgid "Sale"
+msgstr "Promoção!"
+
+msgid "Save Changes"
+msgstr "Salvar edições"
+
+msgid "Saving… please be patient!"
+msgstr "Salvando...seja paciente!"
+
+msgid "Schedule Name"
+msgstr "Nome de agendamento."
+
+msgid "Search"
+msgstr "Pesquisa"
+
+msgid "Search Background Color"
+msgstr "Cor de fundo dos campos de pesquisa"
+
+msgid "Search Features"
+msgstr "Características do módulo de pesquisa"
+
+msgid "Search Fields"
+msgstr "Campos de pesquisa"
+
+msgid "Search Location"
+msgstr "Buscar localização"
+
+msgid "Search Make & Model"
+msgstr "Pesquisar Marca e Modelo"
+
+msgid "Search Results for: %s"
+msgstr "Resultado da pesquisa por: %s"
+
+msgid "Search Text Color"
+msgstr "Cor do texto de pesquisa"
+
+msgid "Search Vehicles"
+msgstr "Pesquisar veículos"
+
+msgid "Search by Vehcile Type"
+msgstr "Pesquisar veículos por tipo"
+
+msgid "Search module background color"
+msgstr "Cor de fundo do módulo de pesquisa"
+
+msgid "Search module text color"
+msgstr "Cor do texto de pesquisa."
+
+msgid "Searching Inventory..."
+msgstr "Pesquisando inventario..."
+
+msgid "Seating Capacity (Std)"
+msgstr "Capacidade de passageiros:"
+
+msgid "Seating Capacity (Std):"
+msgstr "Capacidade de passageiros:"
+
+msgid "Security Code"
+msgstr "Código de Segurança"
+
+msgid "Sedans and Coupes"
+msgstr "Sedans e Coupes"
+
+msgid "Select City"
+msgstr "Selecione cidade"
+
+msgid "Select Field"
+msgstr "Selecione campo"
+
+msgid "Select Import File"
+msgstr "Selecionar arquivo de importação"
+
+msgid "Select Import File Type"
+msgstr "Selecione tipo de arquivo de importação"
+
+msgid "Select Make"
+msgstr "Selecione Marca"
+
+msgid "Select Make First"
+msgstr "Selecione Marca primeiro"
+
+msgid "Select Model"
+msgstr "Selecione Modelo"
+
+msgid "Select Option"
+msgstr "Selecionar Opção"
+
+msgid "Select Primary Key Field"
+msgstr "Selecione o campo de chave principal"
+
+msgid "Select State"
+msgstr "Selecionar Estado"
+
+msgid "Select State First"
+msgstr "Selecionar Estado primeiro"
+
+msgid "Select Status"
+msgstr "Selecionar Condição"
+
+msgid "Select Transmission"
+msgstr "Selecione câmbio"
+
+msgid "Select Type"
+msgstr "Selecione tipo"
+
+msgid "Select Year"
+msgstr "Selecione ano"
+
+msgid "Select vehicles by type."
+msgstr "Selecione veículos por tipo."
+
+msgid "Sell Your Car Setup"
+msgstr "Configuração para vender seu veículo"
+
+msgid "Sell your Car"
+msgstr "Venda seu veículo"
+
+msgid "Semi-Auto"
+msgstr "Automatizado"
+
+msgid "Separate with commas (feature1, feature2, etc)"
+msgstr "Separados com vírgulas (característica1, característica2, etc.)"
+
+msgid "Separator"
+msgstr "Separador"
+
+msgid "Settings"
+msgstr "Configuração"
+
+msgid "Sidebar"
+msgstr "Barra lateral "
+
+msgid "Size"
+msgstr "Tamanho"
+
+msgid "Skype"
+msgstr "Skype"
+
+msgid "Sold"
+msgstr "Vendido"
+
+msgid "Sorry, No Posts found!"
+msgstr "Desculpe, não existem posts!"
+
+msgid "Sorry, no listings matched your criteria."
+msgstr "Desculpe, sem lista de acordo com seus critérios."
+
+msgid "Sorry, no results found. Please try another search"
+msgstr "Desculpe, não existem resultados. Por favor, tente outra pesquisa"
+
+msgid "Sort By: "
+msgstr "Ordenar por:"
+
+msgid "Sport Utilities"
+msgstr "SUV"
+
+msgid "Sports Cars"
+msgstr "Veículos esportivos"
+
+msgid "Start Year:"
+msgstr "Ano de Inicio:"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "State:"
+msgstr "Estado:"
+
+msgid "Status"
+msgstr "Condição"
+
+msgid "Stock"
+msgstr "Estoque"
+
+msgid "Stock #:"
+msgstr "Estoque #:"
+
+msgid "Stock Number"
+msgstr "Número de estoque"
+
+msgid "Stroke"
+msgstr "Cilindros"
+
+msgid "Stroke:"
+msgstr "Cilindros:"
+
+msgid "Submit & Pay for your listing"
+msgstr "Enviar e pagar seu anúncio"
+
+msgid "Submit Comment"
+msgstr "Publicar um Comentário"
+
+msgid "Success Message:"
+msgstr "Mensagem de sucesso:"
+
+msgid "Tag Archives: %s"
+msgstr "Arquivos de Tag:  %s"
+
+msgid "Text Color"
+msgstr "Cor de texto"
+
+msgid "Thank you for contacting us.</br></br"
+msgstr "Obrigado pelo seu contato!"
+
+msgid "Thank you for your submission!"
+msgstr "Obrigado pela sua publicação!"
+
+msgid "The fields on the left are Car Dealer theme inventory fields"
+msgstr "Os campos da esquerda são campos do inventario."
+
+msgid "There were"
+msgstr "Havia"
+
+msgid "Thinking about selling your current vehicle"
+msgstr "Pensando em vender seu veículo"
+
+msgid ""
+"This email address is already in use. If you already have an account please "
+"log in."
+msgstr ""
+"Este endereço de e-mail já está em uso. Se você já possui uma conta, faça o "
+"login."
+
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Este post está protegido. Insira sua senha para ver os comentários."
+
+msgid "Tires (Std)"
+msgstr "Pneus"
+
+msgid "Tires (Std):"
+msgstr "Pneus:"
+
+msgid "Title"
+msgstr "Título "
+
+msgid "Title:"
+msgstr "Título:"
+
+msgid "Title: "
+msgstr "Título:"
+
+msgid "Toggle Search"
+msgstr "Alterar pesquisa"
+
+msgid "Tools"
+msgstr "Ferramentas"
+
+msgid "Top Deal"
+msgstr "Oferta"
+
+msgid "Top Deal?:"
+msgstr "Oferta?:"
+
+msgid "Top Deals Widget in Sidebar"
+msgstr "Widget de oferta na barra lateral"
+
+msgid "Top Search Module"
+msgstr "Módulo de pesquisa"
+
+msgid "Torque"
+msgstr "Torque"
+
+msgid "Torque:"
+msgstr "Torque:"
+
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+msgid "Trailer Hitch"
+msgstr "Engate de reboque"
+
+msgid "Trailer Hitch:"
+msgstr "Engate de reboque:"
+
+msgid "Trailer Wiring"
+msgstr "Cadeado de reboque"
+
+msgid "Trailer Wiring:"
+msgstr "Cadeado de reboque:"
+
+msgid "Transmission"
+msgstr "Câmbio"
+
+msgid "Transmission:"
+msgstr "Câmbio:"
+
+msgid "Twitter Profile"
+msgstr "Perfil de Twitter"
+
+msgid "URL for full page : "
+msgstr "URL completo da página:"
+
+msgid "Update Features"
+msgstr "Atualizar Características"
+
+msgid "Update Location"
+msgstr "Atualizar Localização"
+
+msgid "Update Make & Model"
+msgstr "Atualização de Marca e Modelo"
+
+msgid "Upload Images"
+msgstr "Enviar Imagens"
+
+msgid "Upload Photos"
+msgstr "Enviar fotos"
+
+msgid "Upload or Choose Your Custom Image File"
+msgstr "Enviar ou escolher o arquivo de imagem personalizada"
+
+msgid "Used"
+msgstr "Usado"
+
+msgid "User Already Exists Message:"
+msgstr "Usuário já existe (mensagem):"
+
+msgid "Users"
+msgstr "Usuários"
+
+msgid "VIEW PHOTO GALLERY AND FULL VEHICLE DETAILS"
+msgstr "VER GALERIA DE FOTOS E DETALHES COMPLETOS DO VEICULO "
+
+msgid "VIN"
+msgstr "VIN"
+
+msgid "VIN Decoder"
+msgstr "Decodificador de VIN"
+
+msgid "VIN Decoder Setup"
+msgstr "Configuração do decodificador de VIN"
+
+msgid "VIN:"
+msgstr "VIN:"
+
+msgid "VIN: "
+msgstr "VIN:"
+
+msgid "Valves"
+msgstr "Válvulas"
+
+msgid "Valves per Cylinder:"
+msgstr "Válvulas por cilindro:"
+
+msgid "Vehicle Information"
+msgstr "Informação do Veículo"
+
+msgid "Vehicle Overview"
+msgstr "Visão geral do veículo"
+
+msgid "Vehicle Photo"
+msgstr "Foto de veículo"
+
+msgid "Vehicle Specifications"
+msgstr "Especificações do veículo"
+
+msgid "Vehicle Title"
+msgstr "Título do veículo"
+
+msgid "Vehicle Type"
+msgstr "Tipo de Veículo"
+
+msgid "Vehicle Type:"
+msgstr "Tipo de Veículo"
+
+msgid "Vehicle information request"
+msgstr "Informação de Veículo"
+
+msgid "Video"
+msgstr "Video "
+
+msgid "Video ID"
+msgstr "ID do vídeo"
+
+msgid "Video Source"
+msgstr "Fonte do vídeo:"
+
+msgid "View Details"
+msgstr "Ver  Detalhes"
+
+msgid "View Vehicle"
+msgstr "Ver Veículo"
+
+msgid "Views"
+msgstr "Visualizações"
+
+msgid "Vimeo"
+msgstr "Vimeo"
+
+msgid "Wagons"
+msgstr "Wagons"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Website:"
+msgstr "Website:"
+
+msgid "Wheelbase"
+msgstr "Distância entre eixo"
+
+msgid "Wheelbase:"
+msgstr "Distância entre eixo:"
+
+msgid "Widget title."
+msgstr "Título do widget"
+
+msgid "Widgets Background Color"
+msgstr "Cor de Fundo do Widgets"
+
+msgid "Widgets background color"
+msgstr "Cor de fundo do Widgets"
+
+msgid "Widgets header background color."
+msgstr "Cor do fundo do header dos widgets."
+
+msgid "Widgets header text color."
+msgstr "Cor de texto do header dos widgets."
+
+msgid "Width"
+msgstr "Largura"
+
+msgid "Width:"
+msgstr "Largura:"
+
+msgid "WordPress"
+msgstr "WordPress "
+
+msgid "XML"
+msgstr "XML"
+
+msgid "Year"
+msgstr "Ano"
+
+msgid "Year:"
+msgstr "Ano:"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "You may upload up to 12 images and each image may be no larger than 5MB"
+msgstr "Você pode enviar até 12 imagens de 5mb cada."
+
+msgid "You must be "
+msgstr "Você deve ser"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "Your State"
+msgstr "Seu estado"
+
+msgid "Your Vehicle Information &raquo;"
+msgstr "Informações de seu veículo »"
+
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está pendente de moderação."
+
+msgid "Your listing title"
+msgstr "Título da lista"
+
+msgid "_featured"
+msgstr "_destaque"
+
+msgid "color of the header text logo"
+msgstr "cor do header do texto do logo"
+
+msgid "here"
+msgstr "aquí"
+
+msgid "http://www.automaxclean.dev"
+msgstr "http://www.automaxclean.dev"
+
+msgid "inventory"
+msgstr "inventario"
+
+msgid "logged in"
+msgstr "conectado"
+
+msgid "more"
+msgstr "mais"
+
+msgid "pending"
+msgstr "pendente"
+
+msgid "sales@automaxclean.dev"
+msgstr "sales@automaxclean.dev"
+
+msgid "sell-your-car"
+msgstr "venda-seu carro"
+
+msgid "to post a comment."
+msgstr "para publicar um comentário."

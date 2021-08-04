@@ -1,0 +1,20 @@
+form { display: block; margin: 20px 0; }
+
+.progress { position:relative; width:400px; border: 1px solid #ddd; padding: 1px; border-radius: 3px; }
+.bar { background-color: #7E7E7E; width:0%; height:20px; border-radius: 3px; }
+.percent { position:absolute; display:inline-block; top:3px; left:48%;  }
+
+.gtcdi_step{ color: #666666; margin: 8px 0 5px; font-size: 12px; display:block; }
+.gtcdi_desc{ display: block; margin: 10px 0; padding: 0; font-size: 12px; color: #666666; }
+.gtcdi_divider{ border-bottom: 1px solid #f0f0f0; margin: 20px 0; }
+
+.ui-progressbar {
+	position: relative;
+}
+.progress-label {
+	position: absolute;
+	left: 50%;
+	top: 4px;
+	font-weight: bold;
+	text-shadow: 1px 1px 0 #fff;
+}

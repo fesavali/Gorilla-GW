@@ -1,0 +1,2665 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Automotive Deluxe\n"
+"POT-Creation-Date: 2016-08-11 17:59-0400\n"
+"PO-Revision-Date: 2016-08-21 21:20-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "404 Page Not Found!"
+msgstr "404 Page non trouvée!"
+
+#: 404.php:7
+msgid "Sorry, no results found. Please try another search"
+msgstr ""
+"Désolé, aucun résultat trouvé. S'il vous plaît essayer une nouvelle recherche"
+
+#: archive.php:17 category.php:25 tag.php:25
+msgid "No, Results Found"
+msgstr "Aucun résultat trouvé"
+
+#: archive.php:18 category.php:26 tag.php:26
+msgid "Sorry, No Posts found!"
+msgstr "Désolé, aucun article trouvé!"
+
+#: arrivals.php:6
+msgid "New Arrivals"
+msgstr "Nouvelles Arrivées"
+
+#: arrivals.php:79 inventory.php:138 results.php:268
+#: sidebars/register-sidebars.php:655 taxonomy.php:148
+msgid "0"
+msgstr "0"
+
+#: arrivals.php:120 inventory.php:186 results.php:323
+#: sidebars/register-sidebars.php:695 taxonomy.php:197
+msgid "View Details"
+msgstr "Voir Les Détails"
+
+#: assets/customizer/editor.php:17
+msgid "Text Color"
+msgstr "Couleur De Texte"
+
+#: assets/customizer/editor.php:18
+msgid "Primary theme text color."
+msgstr "Couleur de texte primaire du thème."
+
+#: assets/customizer/editor.php:37
+msgid "Menu Background"
+msgstr "Arrière-Plan Du Menu "
+
+#: assets/customizer/editor.php:38
+msgid "Main menu background color."
+msgstr "Couleur D'arrière-Plan Du Menu "
+
+#: assets/customizer/editor.php:57
+msgid "Menu Text"
+msgstr "Texte Du Menu"
+
+#: assets/customizer/editor.php:58
+msgid "Main menu text color."
+msgstr "Couleur principale de texte du menu."
+
+#: assets/customizer/editor.php:77
+msgid "Headers Color"
+msgstr "Couleur De L'entête"
+
+#: assets/customizer/editor.php:79
+msgid "Widgets header background color."
+msgstr "Couleur de fond de l'entête du widget"
+
+#: assets/customizer/editor.php:97
+msgid "Headers Text Color"
+msgstr "Couleur Du Texte De L'entête"
+
+#: assets/customizer/editor.php:99
+msgid "Widgets header text color."
+msgstr "Couleur Du Texte De L'entête Du Widget"
+
+#: assets/customizer/editor.php:117
+msgid "Search Text Color"
+msgstr "Recherche Couleur Du Texte"
+
+#: assets/customizer/editor.php:119
+msgid "Search module text color"
+msgstr "Couleur Texte du Module de Recherche"
+
+#: assets/customizer/editor.php:137
+msgid "Search Background Color"
+msgstr "Recherche Couleur de Fond"
+
+#: assets/customizer/editor.php:139
+msgid "Search module background color"
+msgstr "Couleur de Fond du Module de Recherche"
+
+#: assets/customizer/editor.php:157
+msgid "Widgets Background Color"
+msgstr "Couleur de Fond du Widget"
+
+#: assets/customizer/editor.php:159
+msgid "Widgets background color"
+msgstr "Couleur de Fond du Widget"
+
+#: assets/customizer/editor.php:177
+msgid "Buttons Background Color"
+msgstr "Couleur de Fond du Bouton"
+
+#: assets/customizer/editor.php:179
+msgid "Buttons background color"
+msgstr "Couleur de Fond du Bouton"
+
+#: assets/customizer/editor.php:197
+msgid "Logo text Color"
+msgstr "Couleur du Texte  du Logo"
+
+#: assets/customizer/editor.php:199
+msgid "color of the header text logo"
+msgstr "Couleur du Texte du Logo de L'entête "
+
+#: assets/import/file/includes/import.php:77
+msgid "File"
+msgstr "Fichier"
+
+#: assets/import/file/includes/import.php:77
+msgid " has successfully imported "
+msgstr "a importé avec succès"
+
+#: assets/import/file/includes/import.php:77
+msgid " listings as "
+msgstr "annonces comme"
+
+#: assets/import/file/includes/import.php:77
+msgid "pending"
+msgstr "en attente"
+
+#: assets/import/file/includes/import.php:77
+msgid " status under Inventory."
+msgstr "statut en vertu de l'inventaire."
+
+#: assets/import/file/includes/import.php:78
+msgid "There were"
+msgstr "Il y avait"
+
+#: assets/import/file/includes/import.php:78
+msgid ""
+" listings that were skipped because they already exist from a previous "
+"import."
+msgstr ""
+"les annonces qui ont été ignorés car ils existent déjà à partir d'une "
+"importation précédente."
+
+#: assets/import/file/includes/import.php:79
+msgid ""
+"If you notice that some of your listings do not have photos attached it is "
+"because they were not found in the database."
+msgstr ""
+"Si vous remarquez que certains de vos annonces ne disposent pas de photos "
+"attachées il est parce qu'ils ne sont pas trouvés dans la base de données."
+
+#: assets/import/file/includes/import.php:80
+msgid "Please click "
+msgstr "Cliquez s'il vous plait"
+
+#: assets/import/file/includes/import.php:80
+msgid "here"
+msgstr "ici"
+
+#: assets/import/file/includes/import.php:80
+msgid " to see your imported listings."
+msgstr "pour voir vos listes importées."
+
+#: assets/import/file/includes/map.php:66
+msgid ""
+"The fields on the left are Car Dealer theme inventory fields. \n"
+"The fields on the right are the fields you are uploading from your file. \n"
+"Select the mapped field on the right with the corresponding Car Dealer field "
+"on the left. \n"
+"Once done, please click Import below."
+msgstr ""
+"Les champs sur la gauche sont les champs d'inventaire du thématique.\n"
+"Les champs de droite sont les champs que vous téléchargez à partir de votre "
+"fichier.\n"
+"Sélectionnez le champ mappé sur la droite avec le champ correspondant sur la "
+"gauche.\n"
+"Une fois cela fait, s'il vous plaît cliquez sur Importer ci-dessous."
+
+#: assets/import/file/includes/map.php:80
+#: assets/import/file/includes/map.php:87
+#: assets/import/schedule/includes/map.php:74
+#: assets/import/schedule/includes/map.php:81
+msgid "Car Dealer Post Title"
+msgstr "Titre du post Car Dealer "
+
+#: assets/import/file/includes/map.php:81
+#: assets/import/file/includes/map.php:88
+#: assets/import/file/includes/map.php:110
+#: assets/import/file/includes/map.php:117
+#: assets/import/file/includes/map.php:141
+#: assets/import/file/includes/map.php:150
+#: assets/import/file/includes/map.php:238
+#: assets/import/file/includes/map.php:246
+#: assets/import/schedule/includes/map.php:75
+#: assets/import/schedule/includes/map.php:82
+#: assets/import/schedule/includes/map.php:109
+#: assets/import/schedule/includes/map.php:116
+#: assets/import/schedule/includes/map.php:145
+#: assets/import/schedule/includes/map.php:154
+#: assets/import/schedule/includes/map.php:277
+#: assets/import/schedule/includes/map.php:285
+msgid "File Import Fields"
+msgstr "Champs D'importation du Fichier"
+
+#: assets/import/file/includes/map.php:94
+#: assets/import/schedule/includes/map.php:88
+msgid "Vehicle Title"
+msgstr "Titre de Véhicules"
+
+#: assets/import/file/includes/map.php:97
+#: assets/import/file/includes/map.php:127
+#: assets/import/file/includes/map.php:166
+#: assets/import/file/includes/map.php:177
+#: assets/import/file/includes/map.php:192
+#: assets/import/file/includes/map.php:203
+#: assets/import/file/includes/map.php:218
+#: assets/import/file/includes/map.php:256
+#: assets/import/schedule/includes/map.php:91
+#: assets/import/schedule/includes/map.php:126
+#: assets/import/schedule/includes/map.php:170
+#: assets/import/schedule/includes/map.php:188
+#: assets/import/schedule/includes/map.php:210
+#: assets/import/schedule/includes/map.php:228
+#: assets/import/schedule/includes/map.php:250
+#: assets/import/schedule/includes/map.php:295
+msgid "Select Field"
+msgstr "Sélectionnez un Champ"
+
+#: assets/import/file/includes/map.php:109
+#: assets/import/file/includes/map.php:116
+#: assets/import/schedule/includes/map.php:108
+#: assets/import/schedule/includes/map.php:115
+msgid "Car Dealer Meta Fields"
+msgstr "Champ Meta de Car Dealer"
+
+#: assets/import/file/includes/map.php:140
+#: assets/import/file/includes/map.php:149
+#: assets/import/schedule/includes/map.php:144
+#: assets/import/schedule/includes/map.php:153
+msgid "Car Dealer Taxonomy"
+msgstr "Taxonomie de Car Dealer"
+
+#: assets/import/file/includes/map.php:142
+#: assets/import/file/includes/map.php:151
+#: assets/import/file/includes/map.php:239
+#: assets/import/file/includes/map.php:247
+#: assets/import/schedule/includes/map.php:146
+#: assets/import/schedule/includes/map.php:155
+#: assets/import/schedule/includes/map.php:278
+#: assets/import/schedule/includes/map.php:286
+msgid "Separator"
+msgstr "Séparateur"
+
+#: assets/import/file/includes/map.php:143
+#: assets/import/file/includes/map.php:152
+#: assets/import/schedule/includes/map.php:147
+#: assets/import/schedule/includes/map.php:156
+msgid "Hierarchy"
+msgstr "Hiérarchie"
+
+#: assets/import/file/includes/map.php:237
+#: assets/import/file/includes/map.php:245
+#: assets/import/schedule/includes/map.php:276
+#: assets/import/schedule/includes/map.php:284
+msgid "Car Dealer Photo Gallery"
+msgstr "Galerie de Photos de Car Dealer "
+
+#: assets/import/file/includes/map.php:253
+#: assets/import/schedule/includes/map.php:292 assets/init/metaboxes.php:1211
+msgid "Photo Gallery"
+msgstr "Galerie de Photos"
+
+#: assets/import/file/includes/upload.php:3
+msgid "1. Select the type of file to import."
+msgstr "1. Sélectionnez le type de fichier à importer."
+
+#: assets/import/file/includes/upload.php:6
+msgid "Select Import File"
+msgstr "Sélectionnez Fichier à Importer"
+
+#: assets/import/file/includes/upload.php:7
+#: assets/import/schedule/includes/url.php:31
+msgid "XML"
+msgstr "XML"
+
+#: assets/import/file/includes/upload.php:8
+#: assets/import/schedule/includes/url.php:32
+msgid "CSV"
+msgstr "CSV"
+
+#: assets/import/file/includes/upload.php:15
+msgid "2. Select your file and click Upload File"
+msgstr "2. Sélectionnez votre fichier et cliquez sur Télécharger le Fichier"
+
+#: assets/import/file/includes/upload.php:30
+msgid "3. Click continue to map your fields."
+msgstr "3. Cliquez sur Continuer pour cartographier vos champs."
+
+#: assets/import/file/index.php:5
+msgid "Car Dealer XML-CSV Batch Vehicle Import"
+msgstr "Car Dealer XML-CSV Importation lot de véhicules"
+
+#: assets/import/file/index.php:6
+msgid ""
+"Please follow the instructions below to import your existing vehicles into "
+"your Inventory."
+msgstr ""
+"S'il vous plaît suivez les instructions ci-dessous pour importer vos "
+"véhicules existants dans votre inventaire."
+
+#: assets/import/schedule/includes/complete.php:5
+#: assets/import/schedule/includes/map.php:5
+#: assets/import/schedule/includes/url.php:5
+msgid "Car Dealer XML-CSV Batch Vehicle Import Scheduler"
+msgstr "Car Dealer XML-CSV Planificateur du Lot D'importation de Véhicule"
+
+#: assets/import/schedule/includes/complete.php:6
+msgid ""
+"Please follow the instructions below to schedule your vehicle import into "
+"Your Inventory."
+msgstr ""
+"S'il vous plaît suivez les instructions ci-dessous pour planifier votre "
+"importation de véhicule dans votre inventaire."
+
+#: assets/import/schedule/includes/list.php:5
+msgid "Car Dealer XML-CSV Batch Vehicle Import Schedules"
+msgstr ""
+"Concessionnaire automobile XML-CSV Importation Horaires lot de véhicules"
+
+#: assets/import/schedule/includes/list.php:6
+msgid "Please is a list of your vehicle import schedules for Car Dealer theme."
+msgstr ""
+"S'il vous plaît voici une liste de vos horaires d'importation de véhicules "
+"pour le thème Car Dealer."
+
+#: assets/import/schedule/includes/list.php:19
+#: assets/import/schedule/includes/list.php:30
+msgid "Schedule Name"
+msgstr "Nom D'horaire"
+
+#: assets/import/schedule/includes/list.php:20
+#: assets/import/schedule/includes/list.php:31 page-listing.php:132
+msgid "Status"
+msgstr "Statut"
+
+#: assets/import/schedule/includes/list.php:21
+#: assets/import/schedule/includes/list.php:32
+msgid "Date Created"
+msgstr "Date de Création"
+
+#: assets/import/schedule/includes/list.php:22
+#: assets/import/schedule/includes/list.php:33
+msgid "Date Updated"
+msgstr "Date Mise à Jour"
+
+#: assets/import/schedule/includes/list.php:23
+#: assets/import/schedule/includes/list.php:34
+msgid "Date Last Processed"
+msgstr "Date du Dernière Traitement"
+
+#: assets/import/schedule/includes/list.php:24
+#: assets/import/schedule/includes/list.php:35
+msgid "Action"
+msgstr "Action"
+
+#: assets/import/schedule/includes/map.php:6
+#: assets/import/schedule/includes/url.php:6
+msgid ""
+"Please follow the instructions below to schedule your vehicle import into "
+"Car Dealer theme."
+msgstr ""
+"S'il vous plaît suivez les instructions ci-dessous pour planifier votre "
+"importation de véhicule dans le thème Car Dealer"
+
+#: assets/import/schedule/includes/map.php:9
+msgid ""
+"The fields on the left are Car Dealer theme inventory fields. \n"
+"\t\t\tThe fields on the right are the fields you are uploading from your "
+"file. \n"
+"\t\t\tSelect the mapped field on the right with the corresponding Car Dealer "
+"field on the left. \n"
+"\t\t\tOnce done, please click Import below."
+msgstr ""
+"Les champs sur la gauche sont des champs d'inventaire du thématique Car "
+"Dealer.\n"
+"Les champs de droite sont les champs que vous téléchargez à partir de votre "
+"fichier.\n"
+"Sélectionnez le champ mappé sur la droite avec le champ sur la gauche "
+"correspondant au thématique Car Dealer Concess.\n"
+"Une fois cela fait, s'il vous plaît cliquez sur Importer ci-dessous."
+
+#: assets/import/schedule/includes/map.php:29
+#: assets/import/schedule/includes/map.php:36
+msgid "Car Dealer Import Primary Key"
+msgstr "Importer la clé primaire du thématique Car Dealer"
+
+#: assets/import/schedule/includes/map.php:30
+#: assets/import/schedule/includes/map.php:37
+msgid "Primary Key Field"
+msgstr "Champ Clé Primaire"
+
+#: assets/import/schedule/includes/map.php:43
+msgid "Is there a Primary Key?"
+msgstr "Y at-il une Clé Primaire?"
+
+#: assets/import/schedule/includes/map.php:46
+msgid "Select Option"
+msgstr "Sélectionner une Option"
+
+#: assets/import/schedule/includes/map.php:55
+msgid "Import Primary Key"
+msgstr "Clé Primaire D'importation"
+
+#: assets/import/schedule/includes/map.php:58
+msgid "Select Primary Key Field"
+msgstr "Sélectionnez Clé Primaire du Champ"
+
+#: assets/import/schedule/includes/url.php:10
+msgid "1. Name this import schedule."
+msgstr "1. Nommé ce programme d'importation."
+
+#: assets/import/schedule/includes/url.php:17
+msgid "2. Schedule Status."
+msgstr "2. Statut Calendrier."
+
+#: assets/import/schedule/includes/url.php:20
+msgid "Select Status"
+msgstr "Sélectionnez Statut"
+
+#: assets/import/schedule/includes/url.php:21
+msgid "Active"
+msgstr "Actif"
+
+#: assets/import/schedule/includes/url.php:22
+msgid "Inactive"
+msgstr "Inactif"
+
+#: assets/import/schedule/includes/url.php:27
+msgid "3. Select the type of file to import."
+msgstr "3. Sélectionnez le type de fichier à importer."
+
+#: assets/import/schedule/includes/url.php:30
+msgid "Select Import File Type"
+msgstr "Sélectionner le type de fichier d'importation"
+
+#: assets/import/schedule/includes/url.php:39
+msgid "4. Specify frequency of scheduler (hours)"
+msgstr "4. Spécifiez la fréquence du planificateur (heures)"
+
+#: assets/import/schedule/includes/url.php:50
+msgid "5. Specify your file URL"
+msgstr "5. Indiquez votre fichier URL"
+
+#: assets/import/schedule/includes/url.php:56
+msgid "6. Click continue to map your fields."
+msgstr "6. Cliquez sur Continuer pour cartographier vos champs."
+
+#: assets/import/schedule/scheduler.php:20
+msgid "Only Once"
+msgstr "Juste une Fois"
+
+#: assets/import/schedule/scheduler.php:21
+msgid "Once every 2 hours"
+msgstr "Une fois toutes les 2 heures"
+
+#: assets/import/schedule/scheduler.php:22
+msgid "Once every 3 hours"
+msgstr "Une fois toutes les 3 heures"
+
+#: assets/import/schedule/scheduler.php:23
+msgid "Once every 4 hours"
+msgstr "Une fois toutes les 4 heures"
+
+#: assets/import/schedule/scheduler.php:24
+msgid "Once every 5 hours"
+msgstr "Une fois toutes les 5 heures"
+
+#: assets/import/schedule/scheduler.php:25
+msgid "Once every 6 hours"
+msgstr "Une fois toutes les 6 heures"
+
+#: assets/import/schedule/scheduler.php:26
+msgid "Once every 7 hours"
+msgstr "Une fois toutes les 7 heures"
+
+#: assets/import/schedule/scheduler.php:27
+msgid "Once every 8 hours"
+msgstr "Une fois toutes les 8 heures"
+
+#: assets/import/schedule/scheduler.php:28
+msgid "Once every 9 hours"
+msgstr "Une fois toutes les 9 heures"
+
+#: assets/import/schedule/scheduler.php:29
+msgid "Once every 10 hours"
+msgstr "Une fois toutes les 10 heures"
+
+#: assets/import/schedule/scheduler.php:30
+msgid "Once every 11 hours"
+msgstr "Une fois toutes les 11 heures"
+
+#: assets/import/schedule/scheduler.php:31
+msgid "Once every 12 hours"
+msgstr "Une fois toutes les 12 heures"
+
+#: assets/init/metaboxes.php:9
+msgid "Enter vehicle condition."
+msgstr "Entrez l'état du véhicule."
+
+#: assets/init/metaboxes.php:15
+msgid "None"
+msgstr "Aucun"
+
+#: assets/init/metaboxes.php:15 financing.php:19
+msgid "New"
+msgstr "Nouveau"
+
+#: assets/init/metaboxes.php:15 financing.php:19
+msgid "Used"
+msgstr "Usagé"
+
+#: assets/init/metaboxes.php:15
+msgid "Sale"
+msgstr "Vente"
+
+#: assets/init/metaboxes.php:15
+msgid "Reduced"
+msgstr "Réduit"
+
+#: assets/init/metaboxes.php:15
+msgid "Sold"
+msgstr "Vendu"
+
+#: assets/init/metaboxes.php:21
+msgid "If yes this Vehicle will show up on the home page featured module."
+msgstr ""
+"Si oui ce véhicule sera affiché sur le module de page d'accueil en vedette."
+
+#: assets/init/metaboxes.php:25 assets/init/metaboxes.php:34
+#: assets/init/metaboxes.php:695
+msgid "No"
+msgstr "Non"
+
+#: assets/init/metaboxes.php:25 assets/init/metaboxes.php:34
+#: assets/init/metaboxes.php:695
+msgid "Yes"
+msgstr "Oui"
+
+#: assets/init/metaboxes.php:30
+msgid "If yes this Vehicle will show up on the Top Deals Widget."
+msgstr "Si oui ce véhicule sera affiché sur le Widget des Meilleures Offres ."
+
+#: assets/init/metaboxes.php:39
+msgid "Enter vehicle year."
+msgstr "Entrez l'année du véhicule."
+
+#: assets/init/metaboxes.php:50
+msgid "Enter the full vehicle price without commas or dots."
+msgstr "Entrez le prix total du véhicule, sans virgules ou des points."
+
+#: assets/init/metaboxes.php:61
+msgid "Enter vehicle mileage."
+msgstr "Entrez le kilométrage du véhicule."
+
+#: assets/init/metaboxes.php:72
+msgid "Enter the Vehicle Type."
+msgstr "Entrez le type de véhicule."
+
+#: assets/init/metaboxes.php:95
+msgid "Enter vehicle stock number."
+msgstr "Entrez le numéro de stock du véhicule."
+
+#: assets/init/metaboxes.php:106
+msgid "Enter vehicle drive type."
+msgstr "Entrez le type de conduite du véhicule."
+
+#: assets/init/metaboxes.php:117
+msgid "Enter vehicle transmission type."
+msgstr "Entrez le type de transmission du véhicule."
+
+#: assets/init/metaboxes.php:132
+msgid "Enter vehicle exterior color."
+msgstr "Entrez la couleur extérieure du véhicule."
+
+#: assets/init/metaboxes.php:143
+msgid "Enter vehicle interior color."
+msgstr "Entrez la couleur intérieure du véhicule."
+
+#: assets/init/metaboxes.php:153
+msgid "EPA City MPG."
+msgstr "Écon. de Carburant Ville"
+
+#: assets/init/metaboxes.php:154
+msgid "Enter EPA City MPG."
+msgstr "Inscrire Écon. de Carburant Ville"
+
+#: assets/init/metaboxes.php:164
+msgid "EPA Highway MPG."
+msgstr "Écon. de Carburant Autoroute"
+
+#: assets/init/metaboxes.php:165
+msgid "Enter EPA Highway MPG."
+msgstr "Inscrire Écon. de Carburant Autoroute"
+
+#: assets/init/metaboxes.php:176
+msgid "Enter vehicle identification number."
+msgstr "Inscrivez le numéro d'identification du véhicule."
+
+#: assets/init/metaboxes.php:187
+msgid "Enter Carfax partner ID to offer free reports with your vehicle."
+msgstr ""
+"Inscrivez votre ID partenaire de Carfax pour offrir des rapports gratuits "
+"avec votre véhicule."
+
+#: assets/init/metaboxes.php:205
+msgid "Enter vehicle engine size."
+msgstr "Inscrire la taille du moteur du véhicule."
+
+#: assets/init/metaboxes.php:216
+msgid "Enter number of cylinders."
+msgstr "Inscrivez le nombre de cylindres."
+
+#: assets/init/metaboxes.php:229
+msgid "Enter vehicle horsepower."
+msgstr "Inscrivez la puissance du véhicule."
+
+#: assets/init/metaboxes.php:240
+msgid "Front Air Conditioning"
+msgstr "Climatisation Avant "
+
+#: assets/init/metaboxes.php:241
+msgid "Enter Front Air Conditioning"
+msgstr "Inscrivez Climatisation Avant "
+
+#: assets/init/metaboxes.php:251
+msgid "Front Brake Type"
+msgstr "Type de Frein Avant "
+
+#: assets/init/metaboxes.php:252
+msgid "Enter Front Brake Type"
+msgstr "Inscrivez Type de Frein Avant"
+
+#: assets/init/metaboxes.php:262
+msgid "Antilock Braking System"
+msgstr "Système de Freinage Antiblocage"
+
+#: assets/init/metaboxes.php:263
+msgid "Enter Antilock Braking System"
+msgstr "Inscrivez Système de Freinage Antiblocage"
+
+#: assets/init/metaboxes.php:273
+msgid "Braking Assist"
+msgstr "Assistant de Freinage"
+
+#: assets/init/metaboxes.php:274
+msgid "Enter Braking Assist"
+msgstr "Inscrivez L'assistant de Freinage"
+
+#: assets/init/metaboxes.php:284
+msgid "Rear Brake Diameter"
+msgstr "Diamètre des Freins Arrière"
+
+#: assets/init/metaboxes.php:285
+msgid "Enter Rear Brake Diameter"
+msgstr "Inscrivez le Diamètre des Frein Arrière"
+
+#: assets/init/metaboxes.php:295
+msgid "Auto Dimming Rearview Mirror"
+msgstr "Variateur Automatique du Rétroviseur Arrière"
+
+#: assets/init/metaboxes.php:296
+msgid "Enter Auto Dimming Rearview Mirror"
+msgstr "Inscrivez le Variateur Automatique du Rétroviseur Arrière"
+
+#: assets/init/metaboxes.php:306
+msgid "Running Boards"
+msgstr "Marchepieds"
+
+#: assets/init/metaboxes.php:307
+msgid "Enter Running Boards"
+msgstr "Inscrivez Marchepieds"
+
+#: assets/init/metaboxes.php:317
+msgid "Roof Rack"
+msgstr "Porte-bagages de toit"
+
+#: assets/init/metaboxes.php:318
+msgid "Enter Roof Rack"
+msgstr "Inscrivez Porte-bagages de toit"
+
+#: assets/init/metaboxes.php:328
+msgid "Power Door Locks"
+msgstr "Verrouillage Électrique des Portes"
+
+#: assets/init/metaboxes.php:329
+msgid "Enter Power Door Locks"
+msgstr "Inscrivez Verrouillage automatique des portes"
+
+#: assets/init/metaboxes.php:339
+msgid "Anti Theft Alarm System"
+msgstr "Système D'alarme Antivol"
+
+#: assets/init/metaboxes.php:340
+msgid "Enter Anti Theft Alarm System"
+msgstr "Inscrivez Système d'alarme antivol"
+
+#: assets/init/metaboxes.php:350
+msgid "Cruise Control"
+msgstr "Régulateur de Vitesse"
+
+#: assets/init/metaboxes.php:351
+msgid "Enter Cruise Control"
+msgstr "Inscrivez Régulateur de Vitesse"
+
+#: assets/init/metaboxes.php:361
+msgid "First Row Vanity Mirrors"
+msgstr "Miroir de Vanité Première Rangée"
+
+#: assets/init/metaboxes.php:362
+msgid "Enter First Row Vanity Mirrors"
+msgstr "Inscrivez Miroir de Vanité Première Rangée"
+
+#: assets/init/metaboxes.php:372
+msgid "Heated Driver Side Mirror"
+msgstr "Miroir Côté Conducteur Chauffant"
+
+#: assets/init/metaboxes.php:373
+msgid "Enter Heated Driver Side Mirror"
+msgstr "Inscrivez Miroir Côté Conducteur Chauffant"
+
+#: assets/init/metaboxes.php:383
+msgid "Heated Driver Passenger Mirror"
+msgstr "Miroirs Chauffants Conducteur et Passager"
+
+#: assets/init/metaboxes.php:384
+msgid "Enter Heated Passenger Side Mirror"
+msgstr "Inscrivez Miroirs Chauffants Conducteur et Passager"
+
+#: assets/init/metaboxes.php:394
+msgid "Trailer Wiring"
+msgstr "Câblage de Remorque"
+
+#: assets/init/metaboxes.php:395
+msgid "Enter Trailer Wiring"
+msgstr "Inscrivez Câblage de Remorque"
+
+#: assets/init/metaboxes.php:405
+msgid "Trailer Hitch"
+msgstr "Attache-Remorque"
+
+#: assets/init/metaboxes.php:406
+msgid "Enter Trailer Hitch"
+msgstr "Inscrivez Attache-Remorque"
+
+#: assets/init/metaboxes.php:416
+msgid "Cruise Control on Steering Wheel"
+msgstr "Régulateur de Vitesse sur Volant"
+
+#: assets/init/metaboxes.php:417
+msgid "Enter Cruise Control on Steering Wheel"
+msgstr "Inscrivez Régulateur de Vitesse sur Volant"
+
+#: assets/init/metaboxes.php:427
+msgid "Audio Control on Steering Wheel"
+msgstr "Contrôle Audio sur Volant"
+
+#: assets/init/metaboxes.php:428
+msgid "Enter Audio Control on Steering Wheel"
+msgstr "Inscrivez Contrôle Audio sur Volant"
+
+#: assets/init/metaboxes.php:438
+msgid "Folding Second Row Seats"
+msgstr "Sièges Deuxième Rangée Rabattables "
+
+#: assets/init/metaboxes.php:439
+msgid "Enter Folding Second Row Seats"
+msgstr "Inscrivez Sièges Deuxième Rangée Rabattables"
+
+#: assets/init/metaboxes.php:450
+msgid "First Row Power Outlet"
+msgstr "Prise de Courant Première Rangée"
+
+#: assets/init/metaboxes.php:451
+msgid "Enter First Row Power Outlet"
+msgstr "Inscrivez Prise de Courant Première Rangée"
+
+#: assets/init/metaboxes.php:462
+msgid "Cargo Area Power Outlet"
+msgstr "Prise de Courant du Cargaison"
+
+#: assets/init/metaboxes.php:463
+msgid "Enter Cargo Area Power Outlet"
+msgstr "Inscrivez Prise de Courant du Cargaison"
+
+#: assets/init/metaboxes.php:474 assets/init/metaboxes.php:512
+msgid "Independent Suspension"
+msgstr "Suspension Indépendante"
+
+#: assets/init/metaboxes.php:475 assets/init/metaboxes.php:513
+msgid "Enter Independent Suspension"
+msgstr "Inscrivez Suspension Indépendante"
+
+#: assets/init/metaboxes.php:486
+msgid "Rear Suspension Type"
+msgstr "Type de Suspension Arrière"
+
+#: assets/init/metaboxes.php:487
+msgid "Enter Rear Suspension Type"
+msgstr "Inscrivez Type de Suspension Arrière"
+
+#: assets/init/metaboxes.php:499
+msgid "Front Suspension Type"
+msgstr "Type Suspension Avant"
+
+#: assets/init/metaboxes.php:500
+msgid "Enter Front Suspension Type"
+msgstr "Inscrivez Type Suspension Avant"
+
+#: assets/init/metaboxes.php:524
+msgid "Maximum Cargo Capacity Suspension"
+msgstr "Capacité du Cargo maximale de Suspension"
+
+#: assets/init/metaboxes.php:525
+msgid "Enter Maximum Cargo Capacity Suspension"
+msgstr "Inscrivez Capacité du Cargo maximale de Suspension"
+
+#: assets/init/metaboxes.php:536
+msgid "Passenger Airbags"
+msgstr "Sac Gonflable Passager"
+
+#: assets/init/metaboxes.php:537
+msgid "Enter Passenger Airbags"
+msgstr "Inscrivez Sac Gonflable Passager"
+
+#: assets/init/metaboxes.php:548
+msgid "Enter vehicle engine type."
+msgstr "Inscrivez le type de moteur du véhicule."
+
+#: assets/init/metaboxes.php:559
+msgid "Enter vehicle fuel capacity."
+msgstr "Entrez la capacité de carburant du véhicule."
+
+#: assets/init/metaboxes.php:570
+msgid "Enter vehicle wheelbaselanguage"
+msgstr "Inscrivez  L'empattement du Véhicule"
+
+#: assets/init/metaboxes.php:581
+msgid "Enter vehicle overall length"
+msgstr "Inscrivez la longueur totale du véhicule "
+
+#: assets/init/metaboxes.php:592
+msgid "Enter vehicle width"
+msgstr "Inscrivez la largeur du véhicule"
+
+#: assets/init/metaboxes.php:603
+msgid "Enter vehicle height."
+msgstr "Inscrivez la hauteur du véhicule."
+
+#: assets/init/metaboxes.php:614
+msgid "Enter vehicle curb weight"
+msgstr "Inscrivez le poids à vide du véhicule"
+
+#: assets/init/metaboxes.php:625
+msgid "Enter vehicle leg room"
+msgstr "Inscrivez l'espace des jambes du véhicule"
+
+#: assets/init/metaboxes.php:636
+msgid "Enter vehicle head room."
+msgstr "Inscrivez l'espace de tête du véhicule."
+
+#: assets/init/metaboxes.php:647
+msgid "Enter vehicle seating capacity"
+msgstr "Inscrivez le nombre de places du véhicule"
+
+#: assets/init/metaboxes.php:658
+msgid "Enter vehicle tires."
+msgstr "Inscrivez les pneus des véhicules."
+
+#: assets/init/metaboxes.php:691
+msgid ""
+"If YES selected the image of this post will be displayed in the home "
+"slideshow."
+msgstr ""
+"Si OUI l'image sélectionné de ce poste sera affiché dans le diaporama de la "
+"page d'accueil."
+
+#: assets/init/metaboxes.php:704
+msgid "VIN Decoder"
+msgstr "VIN Decoder"
+
+#: assets/init/metaboxes.php:706 assets/init/post-type.php:38
+msgid "Vehicle Information"
+msgstr "Information sur le Véhicule"
+
+#: assets/init/metaboxes.php:707 sidebars/register-sidebars.php:50
+msgid "Vehicle Specifications"
+msgstr "Caractéristiques du Véhicule"
+
+#: assets/init/metaboxes.php:708
+msgid "Vehicle Description For Craigslist"
+msgstr "Description du Véhicule Pour Craigslist"
+
+#: assets/init/metaboxes.php:709
+msgid "Featured Post"
+msgstr "Article en Vedette"
+
+#: assets/init/metaboxes.php:724
+msgid "Click here to setup your VIN Decoder"
+msgstr "Cliquez ici pour configurer votre Décodeur de NIV"
+
+#: assets/init/metaboxes.php:748
+msgid "VIN: "
+msgstr "NIV:"
+
+#: assets/init/metaboxes.php:749
+msgid "Enter number here..."
+msgstr "Entrez le numéro ici ..."
+
+#: assets/init/metaboxes.php:1099
+msgid "Craigslist Code:"
+msgstr "Code de Craigslist:"
+
+#: assets/init/metaboxes.php:1100
+msgid "Copy & Paste the generated code into your Craigslist ad."
+msgstr "Copiez et collez le code généré dans votre annonce Craigslist."
+
+#: assets/init/metaboxes.php:1101
+msgid "Contact:"
+msgstr "Contact:"
+
+#: assets/init/metaboxes.php:1101
+msgid "Website:"
+msgstr "Site Internet:"
+
+#: assets/init/metaboxes.php:1101
+msgid "VIEW PHOTO GALLERY AND FULL VEHICLE DETAILS"
+msgstr "VOIR LA GALERIE PHOTO ET DÉTAILS DES VÉHICULES"
+
+#: assets/init/metaboxes.php:1101 functions.php:175
+msgid "Description"
+msgstr "Description"
+
+#: assets/init/metaboxes.php:1101 assets/init/taxonomies.php:57
+#: assets/init/taxonomies.php:58 assets/init/taxonomies.php:73
+#: functions.php:180 page-listing.php:89 single-gtcd.php:38
+msgid "Features"
+msgstr "Caractéristiques"
+
+#: assets/init/metaboxes.php:1165 assets/init/metaboxes.php:1232
+msgid "Delete"
+msgstr "Supprimer"
+
+#: assets/init/metaboxes.php:1244
+msgid " images in  gallery"
+msgstr " images dans la galerie"
+
+#: assets/init/metaboxes.php:1271
+msgid "Upload Images"
+msgstr "Télécharger des images"
+
+#: assets/init/metaboxes.php:1285
+msgid "Upload or Choose Your Custom Image File"
+msgstr "Télécharger ou Choisissez votre Fichier D'image Personalisé"
+
+#: assets/init/metaboxes.php:1286
+msgid "Insert Image into Input Field"
+msgstr "Insérer une image dans le champ d'entrée"
+
+#: assets/init/post-type.php:8 assets/init/post-type.php:20
+msgid "Inventory"
+msgstr "Inventaire"
+
+#: assets/init/post-type.php:9 assets/init/post-type.php:10
+#: assets/init/post-type.php:12
+msgid "Add New Vehicle"
+msgstr "Ajouter Nouveau Véhicule"
+
+#: assets/init/post-type.php:11
+msgid "Edit Vehicle"
+msgstr "Modifier Véhicule"
+
+#: assets/init/post-type.php:13
+msgid "View Vehicle"
+msgstr "Voir le Véhicule"
+
+#: assets/init/post-type.php:14
+msgid "Search Vehicles"
+msgstr "Rechercher Véhicules"
+
+#: assets/init/post-type.php:15
+msgid "No Vehicles Found"
+msgstr "Aucun véhicule trouvé"
+
+#: assets/init/post-type.php:16
+msgid "No Vehicles Found In Trash"
+msgstr "Aucun Véhicules trouvés dans la corbeille"
+
+#: assets/init/post-type.php:19
+msgid "inventory"
+msgstr "inventory"
+
+#: assets/init/post-type.php:37 sidebars/register-sidebars.php:382
+#: sidebars/register-sidebars.php:712
+msgid "Title"
+msgstr "Titre"
+
+#: assets/init/post-type.php:39
+msgid "Vehicle Photo"
+msgstr "Photo du Véhicule"
+
+#: assets/init/taxonomies.php:5 assets/init/taxonomies.php:6
+#: assets/init/taxonomies.php:21 assets/init/taxonomies.php:47
+#: functions.php:179
+msgid "Make & Model"
+msgstr "Marque & Modèle"
+
+#: assets/init/taxonomies.php:7
+msgid "Search Make & Model"
+msgstr "Rechercher Marque & Modèle"
+
+#: assets/init/taxonomies.php:8
+msgid "All Make & Models"
+msgstr "Tout Marques & Modèles"
+
+#: assets/init/taxonomies.php:9 assets/init/taxonomies.php:10
+msgid "Parent Make & Model"
+msgstr "Marque & Modèle D'origine"
+
+#: assets/init/taxonomies.php:11
+msgid "Edit Make & Model"
+msgstr "Modifier Marque & Modèle"
+
+#: assets/init/taxonomies.php:12
+msgid "Update Make & Model"
+msgstr "Mise à Jour de Marque & Modèle"
+
+#: assets/init/taxonomies.php:13
+msgid "Add New Make & Model"
+msgstr "Ajouter Nouveau Marque & Modèle"
+
+#: assets/init/taxonomies.php:14
+msgid "New Make & Model"
+msgstr "Nouveau Marque & Modèle"
+
+#: assets/init/taxonomies.php:31 assets/init/taxonomies.php:32
+#: functions.php:162
+msgid "Location"
+msgstr "Emplacement"
+
+#: assets/init/taxonomies.php:33
+msgid "Search Location"
+msgstr "Rechercher L'emplacement"
+
+#: assets/init/taxonomies.php:34
+msgid "All Locations"
+msgstr "Tous les Emplacements"
+
+#: assets/init/taxonomies.php:35 assets/init/taxonomies.php:36
+msgid "Parent Locations"
+msgstr "Emplacement D'origine"
+
+#: assets/init/taxonomies.php:37
+msgid "Edit Locations"
+msgstr "Modifier L'origine"
+
+#: assets/init/taxonomies.php:38
+msgid "Update Location"
+msgstr "Mise à Jour de L'emplacement"
+
+#: assets/init/taxonomies.php:39
+msgid "Add New Location"
+msgstr "Ajouter Nouveau Emplacement"
+
+#: assets/init/taxonomies.php:40
+msgid "New Location"
+msgstr "Nouveau Emplacement"
+
+#: assets/init/taxonomies.php:59
+msgid "Search Features"
+msgstr "Fonctions de Recherche"
+
+#: assets/init/taxonomies.php:60
+msgid "All Features"
+msgstr "Toutes les Fonctionnalités"
+
+#: assets/init/taxonomies.php:61 assets/init/taxonomies.php:62
+msgid "Parent Features"
+msgstr "Caractéristiques Primaire"
+
+#: assets/init/taxonomies.php:63
+msgid "Edit Features"
+msgstr "Modifier les Caractéristiques"
+
+#: assets/init/taxonomies.php:64
+msgid "Update Features"
+msgstr "Mise à Jour des Caractéristiques"
+
+#: assets/init/taxonomies.php:65
+msgid "Add New Features"
+msgstr "Ajouter les Nouveaux Caractéristiques"
+
+#: assets/init/taxonomies.php:66
+msgid "New Features"
+msgstr "Nouvelles Fonctionnalités"
+
+#: assets/init/theme-setup.php:162 assets/init/theme-setup.php:180
+msgid "VIN Decoder Setup"
+msgstr "Installer le Décodeur NIV"
+
+#: assets/init/theme-setup.php:184
+msgid "Please insert API Key!"
+msgstr "S'il vous plaît insérer votre clé API!"
+
+#: assets/init/theme-setup.php:188
+msgid "API Key Updated!"
+msgstr "Mise à Jour de la Clé API!"
+
+#: assets/init/theme-setup.php:198
+msgid "Go to "
+msgstr "Aller à "
+
+#: assets/init/theme-setup.php:198
+msgid "Edmunds Developer Portal"
+msgstr "Portail de développement Edmunds "
+
+#: assets/init/theme-setup.php:198
+msgid " to obtain your API key"
+msgstr "pour obtenir votre clé API"
+
+#: assets/init/theme-setup.php:198
+msgid " and insert the alphanumeric key in the input field."
+msgstr "et insérer la clé alphanumérique dans le champ de saisie."
+
+#: assets/init/theme-setup.php:199
+msgid ""
+"Register a free account on Edmunds website to get your public API key in "
+"order to operate the VIN Decoder."
+msgstr ""
+"Enregistrer un compte gratuit sur le site Edmunds pour obtenir votre clé API "
+"publique afin de faire fonctionner le Décodeur NIV."
+
+#: assets/init/theme-setup.php:203
+msgid "Edmunds Public API Key"
+msgstr "Clé API Publique Edmunds"
+
+#: assets/init/theme-setup.php:205
+msgid "Insert API key..."
+msgstr "Insérez la clé API ..."
+
+#: assets/init/theme-setup.php:207
+msgid "Enter your full alphanumeric key."
+msgstr "Inscrivez votre clé alphanumérique complet."
+
+#: assets/init/theme-setup.php:214 assets/init/theme-setup.php:235
+msgid "Save Changes"
+msgstr "Sauvegarder les Modifications"
+
+#: assets/init/theme-setup.php:225
+msgid "Automotive Search Options Setup"
+msgstr "Configuration des Options de Recherche Automobile "
+
+#: assets/init/theme-setup.php:228
+msgid ""
+"Rename labels and options for the search module and hide-show each field in "
+"the form."
+msgstr ""
+"Renommer des étiquettes et des options pour le module de recherche et de "
+"cacher-montrer chaque champ dans le formulaire."
+
+#: assets/init/theme-setup.php:229
+msgid "Fields"
+msgstr "Champs"
+
+#: assets/sell-your-car/init.php:102 results.php:667
+msgid "Select Make"
+msgstr "Sélectionnez Marque"
+
+#: assets/sell-your-car/init.php:131 page-listing.php:33
+msgid "Your State"
+msgstr "Votre Province"
+
+#: assets/sell-your-car/init.php:143
+msgid "Select Year"
+msgstr "Sélectionnez Année"
+
+#: assets/sell-your-car/init.php:167
+msgid "Select Transmission"
+msgstr "Sélectionnez Transmission"
+
+#: assets/sell-your-car/init.php:190
+msgid "Select Type"
+msgstr "Sélectionner le Type"
+
+#: assets/updater/theme-updater.php:16
+msgid "Theme License"
+msgstr "Licence du Thème "
+
+#: assets/updater/theme-updater.php:17
+msgid "Enter your theme license key."
+msgstr "Entrez votre clé de licence du thème."
+
+#: assets/updater/theme-updater.php:18
+msgid "License Key"
+msgstr "Clé de Licence"
+
+#: assets/updater/theme-updater.php:19
+msgid "License Action"
+msgstr "Licence D'action"
+
+#: assets/updater/theme-updater.php:20
+msgid "Deactivate License"
+msgstr "Désactiver la Licence"
+
+#: assets/updater/theme-updater.php:21
+msgid "Activate License"
+msgstr "Activer la Licence"
+
+#: assets/updater/theme-updater.php:22 assets/updater/theme-updater.php:34
+msgid "License status is unknown."
+msgstr "Statut de Licence est inconnue."
+
+#: assets/updater/theme-updater.php:23
+msgid "Renew?"
+msgstr "Renouveler?"
+
+#: assets/updater/theme-updater.php:24
+msgid "unlimited"
+msgstr "illimité"
+
+#: assets/updater/theme-updater.php:25
+msgid "License key is active."
+msgstr "La clé de licence est actif."
+
+#: assets/updater/theme-updater.php:26
+#, php-format
+msgid "Expires %s."
+msgstr "Expire %s."
+
+#: assets/updater/theme-updater.php:27
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr "Vous avez %1$s / %2$s sites actvé"
+
+#: assets/updater/theme-updater.php:28
+#, php-format
+msgid "License key expired %s."
+msgstr "Clé de licence a expiré %s."
+
+#: assets/updater/theme-updater.php:29
+msgid "License key has expired."
+msgstr "La clé de licence a expiré."
+
+#: assets/updater/theme-updater.php:30
+msgid "License keys do not match."
+msgstr "Les clés de licence ne correspondent pas."
+
+#: assets/updater/theme-updater.php:31
+msgid "License is inactive."
+msgstr "Licence est inactif."
+
+#: assets/updater/theme-updater.php:32
+msgid "License key is disabled."
+msgstr "La clé de licence est désactivé."
+
+#: assets/updater/theme-updater.php:33
+msgid "Site is inactive."
+msgstr "Site est inactif."
+
+#: assets/updater/theme-updater.php:35
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Mise à jour de ce thème va perdre toutes les personnalisations que vous avez "
+"apportées. «Annuler» pour arrêter, 'OK' pour mettre à jour."
+
+#: assets/updater/theme-updater.php:36
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: blog.php:22
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: category.php:8 tag.php:8
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Étiquette D'archives: %s"
+
+#: category.php:10 tag.php:10
+msgid " Category"
+msgstr "Catégorie"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cette article est protégé par un mot de passe. Entrer le mot de passe pour "
+"voir les commentaires."
+
+#: comments.php:13
+msgid "No Comments"
+msgstr "Sans commentaires"
+
+#: comments.php:13
+msgid "One Comment"
+msgstr "Un commentaire"
+
+#: comments.php:13
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: comments.php:23
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:31
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:38
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: comments.php:53
+msgid "Leave a reply"
+msgstr "Laisser une réponse"
+
+#: comments.php:53
+msgid "Leave A Reply"
+msgstr "Laisser Une Réponse"
+
+#: comments.php:58
+msgid "You must be "
+msgstr "Tu dois être"
+
+#: comments.php:58
+msgid "logged in"
+msgstr "connecté"
+
+#: comments.php:58
+msgid "to post a comment."
+msgstr "pour poster un commentaire ."
+
+#: comments.php:62
+msgid "Logged in as "
+msgstr "Connecté en tant que"
+
+#: comments.php:62
+msgid "Log out"
+msgstr "Se déconnecter"
+
+#: comments.php:64
+msgid "Name*"
+msgstr "Nom*"
+
+#: comments.php:65
+msgid "Mail*"
+msgstr "Courrier*"
+
+#: comments.php:66
+msgid "Website"
+msgstr "Site Internet"
+
+#: comments.php:69
+msgid "Submit Comment"
+msgstr "Soumettre un commentaire"
+
+#: contact-us.php:18 page-listing.php:130
+msgid "Name"
+msgstr "Nom"
+
+#: contact-us.php:18 functions.php:1176
+msgid "Phone"
+msgstr "Téléphone"
+
+#: contact-us.php:18
+msgid "Mensaje"
+msgstr "Message"
+
+#: financing.php:19
+msgid "Purchase Type"
+msgstr "Type D'achat"
+
+#: financing.php:19 functions.php:177 page-listing.php:55 results.php:183
+msgid "Year"
+msgstr "Année"
+
+#: financing.php:19 functions.php:165
+msgid "Condition"
+msgstr "Condition"
+
+#: financing.php:19
+msgid "Stock Number"
+msgstr "Numéro de Stock"
+
+#: financing.php:19 page-listing.php:45
+msgid "Make"
+msgstr "Marque"
+
+#: financing.php:19 page-listing.php:49
+msgid "Model"
+msgstr "Modèle"
+
+#: financing.php:19
+msgid "First Name"
+msgstr "Nom"
+
+#: financing.php:19
+msgid "Last Name"
+msgstr "Nom de Famille"
+
+#: financing.php:19
+msgid "Ciudad"
+msgstr "Ville"
+
+#: financing.php:19
+msgid "Fecha de Nacimiento"
+msgstr "DDN"
+
+#: financing.php:19
+msgid "Direccion"
+msgstr "Adresse"
+
+#: footer.php:18
+msgid "Automotive by "
+msgstr "Automobile par"
+
+#: footer.php:19
+msgid "Powered by "
+msgstr "Alimenté par"
+
+#: footer.php:20
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:41
+msgid "Filter By Stock Number"
+msgstr "Filtrer par Numéro de Stock"
+
+#: functions.php:91
+msgid "Currency:"
+msgstr "Devise:"
+
+#: functions.php:92
+msgid "Location:"
+msgstr "Emplacement:"
+
+#: functions.php:93
+msgid "State:"
+msgstr "Province"
+
+#: functions.php:94
+msgid "Condition:"
+msgstr "Condition:"
+
+#: functions.php:95
+msgid "Featured:"
+msgstr "En Vedette:"
+
+#: functions.php:96
+msgid "Top Deal?:"
+msgstr "Meilleur Offre?:"
+
+#: functions.php:97
+msgid "Drive:"
+msgstr "Conduite:"
+
+#: functions.php:98
+msgid "Epa Mileage:"
+msgstr "Écon. de Carburant"
+
+#: functions.php:99
+msgid "Transmission:"
+msgstr "Transmission:"
+
+#: functions.php:100
+msgid "Stock #:"
+msgstr "Stock #:"
+
+#: functions.php:101
+msgid "VIN:"
+msgstr "NIV:"
+
+#: functions.php:102
+msgid "Carfax Partner ID:"
+msgstr "ID Partenaire Carfax"
+
+#: functions.php:103 functions.php:104
+msgid "Interior:"
+msgstr "Intérieur:"
+
+#: functions.php:105
+msgid "Exterior:"
+msgstr "Extérieur:"
+
+#: functions.php:106
+msgid "Description:"
+msgstr "Description:"
+
+#: functions.php:107
+msgid "Torque:"
+msgstr "Couple:"
+
+#: functions.php:108
+msgid "Price:"
+msgstr "Prix:"
+
+#: functions.php:109
+msgid "Vehicle Type:"
+msgstr "Type de Véhicule"
+
+#: functions.php:110
+msgid "Miles:"
+msgstr "kilomètrage:"
+
+#: functions.php:111
+msgid "Year:"
+msgstr "Année:"
+
+#: functions.php:112
+msgid "Make & Model:"
+msgstr "Marque & Modèle"
+
+#: functions.php:113
+msgid "Features:"
+msgstr "Caractéristiques:"
+
+#: functions.php:114
+msgid "Engine Size:"
+msgstr "Taille du Moteur:"
+
+#: functions.php:115
+msgid "Cylinders:"
+msgstr "Cylindres:"
+
+#: functions.php:116
+msgid "Horsepower:"
+msgstr "Chevaux-Vapeur:"
+
+#: functions.php:117
+msgid "Compression Ratio:"
+msgstr "Ratio de Compression:"
+
+#: functions.php:118
+msgid "Camshaft:"
+msgstr "Arbre à Cames:"
+
+#: functions.php:119
+msgid "Engine Tye:"
+msgstr "Type de Moteur:"
+
+#: functions.php:120
+msgid "Bore:"
+msgstr "Bore:"
+
+#: functions.php:121
+msgid "Stroke:"
+msgstr "Stroke:"
+
+#: functions.php:122
+msgid "Valves per Cylinder:"
+msgstr "Soupapes par Cylindre:"
+
+#: functions.php:123
+msgid "Fuel Capacity:"
+msgstr "Capacité de Carburant:"
+
+#: functions.php:124
+msgid "Wheelbase:"
+msgstr "Empattement:"
+
+#: functions.php:125
+msgid "Overall Length:"
+msgstr "Longueur Totale:"
+
+#: functions.php:126
+msgid "Width:"
+msgstr "Largeur:"
+
+#: functions.php:127
+msgid "Height:"
+msgstr "Taille:"
+
+#: functions.php:128
+msgid "Curb Weight:"
+msgstr "Poids à Vide:"
+
+#: functions.php:129
+msgid "Leg Room:"
+msgstr "Espace Jambes:"
+
+#: functions.php:130
+msgid "Head Room:"
+msgstr "Espace Tête"
+
+#: functions.php:131
+msgid "Seating Capacity (Std):"
+msgstr "Nombre de Places (Std):"
+
+#: functions.php:132
+msgid "Tires (Std):"
+msgstr "Pneus (Std):"
+
+#: functions.php:142 functions.php:143
+msgid "Search Fields"
+msgstr "Champs de Recherche"
+
+#: functions.php:161
+msgid "State"
+msgstr "Province"
+
+#: functions.php:163
+msgid "$"
+msgstr "$"
+
+#: functions.php:164 page-listing.php:61 results.php:184
+msgid "Price"
+msgstr "Prix"
+
+#: functions.php:166
+msgid "Top Deal"
+msgstr "Meilleur Offre"
+
+#: functions.php:167
+msgid "Featured"
+msgstr "En Vedette"
+
+#: functions.php:168
+msgid "EPA Mileage"
+msgstr "Écon. de carburant"
+
+#: functions.php:169
+msgid "Stock"
+msgstr "Stock"
+
+#: functions.php:170 page-listing.php:85
+msgid "VIN"
+msgstr "NIV"
+
+#: functions.php:171
+msgid "Carfax Parner ID"
+msgstr "ID Partenaire Carfax"
+
+#: functions.php:172 page-listing.php:75
+msgid "Interior"
+msgstr "Intérieur"
+
+#: functions.php:173 page-listing.php:71
+msgid "Exterior"
+msgstr "Extérieur"
+
+#: functions.php:174 page-listing.php:79
+msgid "Drive"
+msgstr "Conduite"
+
+#: functions.php:176
+msgid "Torque"
+msgstr "Torque"
+
+#: functions.php:178 page-listing.php:65 results.php:182
+msgid "Miles"
+msgstr "kilomètres"
+
+#: functions.php:181
+msgid "1990"
+msgstr "1990"
+
+#: functions.php:182
+msgid "Engine Size"
+msgstr "Taille du Moteur"
+
+#: functions.php:183
+msgid "Cylinders"
+msgstr "Cylindres"
+
+#: functions.php:184
+msgid "Horsepower"
+msgstr "Cheval-Vapeur"
+
+#: functions.php:185
+msgid "Compression Ratio"
+msgstr "Ratio de compression"
+
+#: functions.php:186
+msgid "Camshaft"
+msgstr "Arbre à Cames"
+
+#: functions.php:187
+msgid "Engine Type"
+msgstr "Type de Moteur"
+
+#: functions.php:188
+msgid "Bore"
+msgstr "Bore"
+
+#: functions.php:189
+msgid "Stroke"
+msgstr "Stroke"
+
+#: functions.php:190
+msgid "Valves"
+msgstr "Valves"
+
+#: functions.php:191
+msgid "Fuel Capacity"
+msgstr "Capacité de Carburant"
+
+#: functions.php:192
+msgid "Wheelbase"
+msgstr "Empattement"
+
+#: functions.php:193
+msgid "Overall Length"
+msgstr "Longueur Totale"
+
+#: functions.php:194
+msgid "Width"
+msgstr "Largeur"
+
+#: functions.php:195
+msgid "Height"
+msgstr "Taille"
+
+#: functions.php:196
+msgid "Curb Weight"
+msgstr "Poids à Vide"
+
+#: functions.php:197
+msgid "Leg Room"
+msgstr "Espace Jambieres"
+
+#: functions.php:198
+msgid "Head Room"
+msgstr "Espace pour Tête"
+
+#: functions.php:199
+msgid "Seating Capacity (Std)"
+msgstr "Nombre de Places (Std)"
+
+#: functions.php:200
+msgid "Tires (Std)"
+msgstr "Pneus (Std)"
+
+#: functions.php:201 page-listing.php:95
+msgid "Transmission"
+msgstr "Transmission"
+
+#: functions.php:202
+msgid "Automatic"
+msgstr "Automatique"
+
+#: functions.php:203
+msgid "Manual"
+msgstr "Manuel"
+
+#: functions.php:204
+msgid "Semi-Auto"
+msgstr "Semi-Auto"
+
+#: functions.php:205
+msgid "Other"
+msgstr "Autres"
+
+#: functions.php:206 page-listing.php:99
+msgid "Vehicle Type"
+msgstr "Type de Véhicule"
+
+#: functions.php:207
+msgid "Convertibles"
+msgstr "Convertibles"
+
+#: functions.php:208
+msgid "Crossovers"
+msgstr "Crossovers"
+
+#: functions.php:209
+msgid "Luxury Vehicles"
+msgstr "Véhicules de Luxe"
+
+#: functions.php:210
+msgid "Hybrids"
+msgstr "Hybrides"
+
+#: functions.php:211
+msgid "Minivans and Vans"
+msgstr "Fourgonnettes & Mini-Fourgonnettes"
+
+#: functions.php:212
+msgid "Pickup Trucks"
+msgstr "Camionnettes"
+
+#: functions.php:213
+msgid "Sedans and Coupes"
+msgstr "Berlines et Coupés"
+
+#: functions.php:214
+msgid "Diesel Engines"
+msgstr "Moteurs Diesel"
+
+#: functions.php:215
+msgid "Sport Utilities"
+msgstr "Utilitaires Sport"
+
+#: functions.php:216
+msgid "Sports Cars"
+msgstr "Voitures de Sport"
+
+#: functions.php:217
+msgid "Wagons"
+msgstr "Wagons"
+
+#: functions.php:218
+msgid "4WD-AWD"
+msgstr "4WD-AWD"
+
+#: functions.php:234 functions.php:247 functions.php:287 functions.php:296
+#: functions.php:318
+msgid " Hide in Search Module."
+msgstr "Cacher dans le Module de Recherche."
+
+#: functions.php:237
+msgid "Start Year:"
+msgstr "Année de Début:"
+
+#: functions.php:507
+msgid "Hide in Search Module."
+msgstr "Cacher dans le Module de Recherche."
+
+#: functions.php:510 functions.php:529
+msgid "Option 1:"
+msgstr "Option 1:"
+
+#: functions.php:511 functions.php:530
+msgid "Option 2:"
+msgstr "Option 2:"
+
+#: functions.php:512 functions.php:531
+msgid "Option 3:"
+msgstr "Option 3:"
+
+#: functions.php:513 functions.php:532
+msgid "Option 4:"
+msgstr "Option 4:"
+
+#: functions.php:514
+msgid "Option 5:"
+msgstr "Option 5:"
+
+#: functions.php:515
+msgid "Option 6:"
+msgstr "Option 6:"
+
+#: functions.php:516
+msgid "Option 7:"
+msgstr "Option 7:"
+
+#: functions.php:517
+msgid "Option 8:"
+msgstr "Option 8:"
+
+#: functions.php:518
+msgid "Option 9:"
+msgstr "Option 9:"
+
+#: functions.php:519
+msgid "Option 10:"
+msgstr "Option 10:"
+
+#: functions.php:520
+msgid "Option 11:"
+msgstr "Option 11:"
+
+#: functions.php:521
+msgid "Option 12:"
+msgstr "Option 12:"
+
+#: functions.php:540
+#, php-format
+msgid "%s Theme Options"
+msgstr "%s Options du Thème"
+
+#: functions.php:690
+msgid "PayPal Intro Message:"
+msgstr "PayPal Message D'intro"
+
+#: functions.php:691
+msgid "PayPal E-mail Account:"
+msgstr "PayPal Compte Email:"
+
+#: functions.php:692
+msgid "Listing Price:"
+msgstr "Prix D'inscription"
+
+#: functions.php:693
+msgid "Redirection Page:"
+msgstr "Redirection Page:"
+
+#: functions.php:694
+msgid "Success Message:"
+msgstr "Message de Succès :"
+
+#: functions.php:695
+msgid "Please Wait Message:"
+msgstr "Message S'il vous plaît attendre:"
+
+#: functions.php:696
+msgid "User Already Exists Message:"
+msgstr "Message L'utilisateur existe déjà :"
+
+#: functions.php:706 functions.php:707
+msgid "Sell Your Car Setup"
+msgstr "Vendez Votre Configuration de Voiture"
+
+#: functions.php:717
+msgid "Please use the button below to complete your payment."
+msgstr ""
+"S'il vous plaît utilisez le bouton ci-dessous pour effectuer votre paiement."
+
+#: functions.php:719
+msgid "0.99"
+msgstr "0.99"
+
+#: functions.php:720
+msgid "http://www.automaxclean.dev"
+msgstr "http://www.automaxclean.dev"
+
+#: functions.php:721
+msgid "Thank you for your submission!"
+msgstr "Merci pour votre soumission!"
+
+#: functions.php:722
+msgid "Saving… please be patient!"
+msgstr "Sauvegarde en cours ... s'il vous plaît soyez patient!"
+
+#: functions.php:723
+msgid ""
+"This email address is already in use. If you already have an account please "
+"log in."
+msgstr ""
+"Cette adresse courriel est déjà utilisée. Si vous avez déjà un compte s'il "
+"vous plaît vous connectez."
+
+#: functions.php:783
+#, php-format
+msgid "%s Form & PayPal Configuration"
+msgstr "%s Formulaire & Configuration PayPal "
+
+#: functions.php:850
+msgid "Select Model"
+msgstr "Sélectionnez un Modèle"
+
+#: functions.php:866
+msgid "Select City"
+msgstr "Sélectionner Ville"
+
+#: functions.php:1177
+msgid "Skype"
+msgstr "Skype"
+
+#: functions.php:1178
+msgid "Gtalk"
+msgstr "Gtalk"
+
+#: functions.php:1187
+msgid "Enter Vehicle Year, Make & Model"
+msgstr "Entrez L'année du Véhicule , Marque et Modèle"
+
+#: functions.php:1202
+msgid "more"
+msgstr "davantage"
+
+#: functions.php:1216
+msgid "Dashboard"
+msgstr "Tableau de Bord"
+
+#: functions.php:1216
+msgid "Links"
+msgstr "Liens:"
+
+#: functions.php:1216
+msgid "Pages"
+msgstr "Pages"
+
+#: functions.php:1216
+msgid "Posts"
+msgstr "Articles"
+
+#: functions.php:1216
+msgid "Appearance"
+msgstr "Apparence"
+
+#: functions.php:1216
+msgid "Tools"
+msgstr "Outils"
+
+#: functions.php:1216
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: functions.php:1216
+msgid "Settings"
+msgstr "Paramètres"
+
+#: functions.php:1216
+msgid "Comments"
+msgstr "Commentaires"
+
+#: functions.php:1216
+msgid "Plugins"
+msgstr "Plugins"
+
+#: functions.php:1270
+msgid "Video ID"
+msgstr "Video ID"
+
+#: functions.php:1274
+msgid "Video Source"
+msgstr "Source Vidéo "
+
+#: functions.php:1276
+msgid "YouTube"
+msgstr "YouTube"
+
+#: functions.php:1277
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: functions.php:1530 functions.php:1536
+msgid "Views"
+msgstr "Vues"
+
+#: functions.php:1545
+msgid ""
+"Thank you for contacting us.</br></br>\n"
+"We have received your enquiry and will respond to you within 24 hours."
+msgstr ""
+"Merci de nous contacter. </ br> </ br>\n"
+"Nous avons reçu votre demande et vous répondrons dans les 24 heures."
+
+#: functions.php:1681
+msgid "Previous"
+msgstr "Précédent"
+
+#: functions.php:1682
+msgid "Next"
+msgstr "Prochain"
+
+#: header.php:63
+msgid "Toggle Search"
+msgstr "Interrupteur de Recherche"
+
+#: header.php:102 load.php:7
+msgid "Searching Inventory..."
+msgstr "Recherche Inventaire ..."
+
+#: inventory.php:194 results.php:331 taxonomy.php:205
+msgid "Sorry, no listings matched your criteria."
+msgstr "Désolé, pas d'annonces correspondant à vos critères."
+
+#: inventory.php:197 results.php:334 taxonomy.php:208
+msgid "BACK TO TOP"
+msgstr "RETOUR EN HAUT"
+
+#: page-listing.php:22
+msgid "Your Vehicle Information &raquo;"
+msgstr "Information sur votre Véhicule &raquo;"
+
+#: page-listing.php:26
+msgid "Your listing title"
+msgstr "Votre titre d'inscription "
+
+#: page-listing.php:27
+msgid "Enter listing title"
+msgstr "Inscrivez titre de l'annonce "
+
+#: page-listing.php:38
+msgid "City"
+msgstr "Ville"
+
+#: page-listing.php:40
+msgid "Select State First"
+msgstr "Sélectionnez la Province en Premier"
+
+#: page-listing.php:51
+msgid "Select Make First"
+msgstr "Sélectionnez Marque en Premier"
+
+#: page-listing.php:62
+msgid "Enter vehicle price"
+msgstr "Inscrivez le prix du véhicule"
+
+#: page-listing.php:66
+msgid "Enter vehicle miles"
+msgstr "Inscrivez le kilométrage du véhicules"
+
+#: page-listing.php:72
+msgid "Enter exterior color"
+msgstr "Inscrivez la couleur extérieure"
+
+#: page-listing.php:76
+msgid "Enter interior color"
+msgstr "Inscrivez la couleur intérieure"
+
+#: page-listing.php:80
+msgid "Enter vehicle drive"
+msgstr "Inscrivez l'entraînement du véhicule"
+
+#: page-listing.php:86
+msgid "Enter VIN number"
+msgstr "Inscrivez le numéro NIV"
+
+#: page-listing.php:90
+msgid "Separate with commas (feature1, feature2, etc)"
+msgstr "Séparez par des virgules (Fonction 1, Fonction 2, etc)"
+
+#: page-listing.php:105
+msgid "Enter vehicle listing description."
+msgstr "Inscrivez la description énumérant du véhicule."
+
+#: page-listing.php:108
+msgid "Image Gallery &raquo;"
+msgstr "Galerie D'images &raquo;"
+
+#: page-listing.php:116
+msgid "Upload Photos"
+msgstr "Télécharger des Photos"
+
+#: page-listing.php:123
+msgid ""
+"Images will be automatically resized to fit the listing layout. We recommend "
+"that you upload photos in full resolution for better results."
+msgstr ""
+"Les images seront automatiquement redimensionner pour correspondre à la "
+"liste de la mise en page. Nous vous recommandons de télécharger des photos "
+"en haute résolution pour de meilleurs résultats."
+
+#: page-listing.php:124
+msgid "You may upload up to 12 images and each image may be no larger than 5MB"
+msgstr ""
+"Vous pouvez télécharger jusqu'à 12 images et chaque image ne peut-être pas "
+"plus grand que 5MB"
+
+#: page-listing.php:129
+msgid "Preview"
+msgstr "Aperçu"
+
+#: page-listing.php:131
+msgid "Size"
+msgstr "Taille"
+
+#: page-listing.php:142
+msgid "Personal Information &raquo;"
+msgstr "Informations Personnelles &raquo;"
+
+#: page-listing.php:146
+msgid "First name"
+msgstr "Nom"
+
+#: page-listing.php:147
+msgid "Enter your first name"
+msgstr "Inscrivez votre nom"
+
+#: page-listing.php:150
+msgid "Last name"
+msgstr "Nom de Famille"
+
+#: page-listing.php:151
+msgid "Enter your last name"
+msgstr "Inscrivez votre nom de famille"
+
+#: page-listing.php:156
+msgid "Email"
+msgstr "Courriel"
+
+#: page-listing.php:157
+msgid "Enter your e-mail"
+msgstr "Inscrivez votre courriel"
+
+#: page-listing.php:160
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+#: page-listing.php:161
+msgid "Enter your phone number"
+msgstr "Inscrivez votre numéro de téléphone"
+
+#: page-listing.php:167
+msgid "Security Code"
+msgstr "Code de sécurité"
+
+#: page-listing.php:168
+msgid "Enter security code"
+msgstr "Inscrivez le code de sécurité"
+
+#: page-listing.php:175 page-listing.php:178
+msgid "Submit & Pay for your listing"
+msgstr "Soumettre & payer pour votre annonce"
+
+#: page-listing.php:181
+msgid "Clear form"
+msgstr "Éclaircir le Formulaire"
+
+#: results.php:73 searchform.php:3
+msgid "Search"
+msgstr "Recherche"
+
+#: results.php:119
+msgid "Any price"
+msgstr "Tous les prix"
+
+#: results.php:170
+msgid "Sort By: "
+msgstr "Trier Par:"
+
+#: results.php:606
+msgid "Select State"
+msgstr "Sélectionnez la Province"
+
+#: results.php:613
+msgid "City (Select State First)"
+msgstr "Ville (Province en Premier)"
+
+#: results.php:673
+msgid "Model (Select Make First)"
+msgstr "Modèle (Marque en Premier)"
+
+#: search.php:6
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche for: %s"
+
+#: search.php:17
+msgid "No Results Found"
+msgstr "Aucun résultat trouvé"
+
+#: searchform.php:2
+msgid "Enter keywords..."
+msgstr "Inscrivez les mots clés ..."
+
+#: sidebars/register-sidebars.php:22
+msgid "Sidebar"
+msgstr "Barre Latérale"
+
+#: sidebars/register-sidebars.php:23
+msgid "Left Sidebar"
+msgstr "Barre Latérale de Gauche"
+
+#: sidebars/register-sidebars.php:31
+msgid "Automotive Sidebar"
+msgstr "Barre Latérale de gauche"
+
+#: sidebars/register-sidebars.php:32
+msgid "Add all Automotive widgets here"
+msgstr "Ajouter tous les widgets d'automobile ici"
+
+#: sidebars/register-sidebars.php:40
+msgid "Automotive Carousel"
+msgstr "Carousel Automobile "
+
+#: sidebars/register-sidebars.php:41
+msgid "Homepage Slideshow"
+msgstr "Diaporama de la Page D'accueil "
+
+#: sidebars/register-sidebars.php:45
+msgid "Header Phone Number"
+msgstr "Numéro de téléphone de l'en-tête "
+
+#: sidebars/register-sidebars.php:46
+msgid "Business phone number in header"
+msgstr "numéro de téléphone d'affaires de l'en-tête"
+
+#: sidebars/register-sidebars.php:51
+msgid "Accordion widget in listing page "
+msgstr "Widget Accordéon dans la page d'inscription"
+
+#: sidebars/register-sidebars.php:57
+msgid "Featured Vehicles"
+msgstr "Véhicules en Vedette"
+
+#: sidebars/register-sidebars.php:58
+msgid "Featured vehicles widget"
+msgstr "Widget de véhicules en vedette"
+
+#: sidebars/register-sidebars.php:62
+msgid "Find by Vehicle Type"
+msgstr "Trouver par type de véhicule"
+
+#: sidebars/register-sidebars.php:63
+msgid "Select vehicles by type."
+msgstr "Sélectionnez les véhicules par type."
+
+#: sidebars/register-sidebars.php:69
+msgid "Footer"
+msgstr "Bas de page"
+
+#: sidebars/register-sidebars.php:70
+msgid "Footer widgets"
+msgstr "Widget Bas de page"
+
+#: sidebars/register-sidebars.php:128
+msgid "Sell your Car"
+msgstr "Vendez votre Véhicule"
+
+#: sidebars/register-sidebars.php:129
+msgid "sell-your-car"
+msgstr "vendez-votre-voiture"
+
+#: sidebars/register-sidebars.php:130
+msgid ""
+"Thinking about selling your current vehicle?\n"
+"\n"
+"Bring your car for an appraisal, and get a free written offer good for 7 "
+"days.\n"
+"\n"
+"Submit your vehicle information now."
+msgstr ""
+"Vous songez à vendre votre véhicule actuel?\n"
+"\n"
+"Apportez votre véhicule pour une évaluation, et obtenez une offre écrite "
+"gratuite bon pour 7 jours.\n"
+"\n"
+"Proposez vos informations de véhicule maintenant."
+
+#: sidebars/register-sidebars.php:138
+msgid "News"
+msgstr "Nouvelles"
+
+#: sidebars/register-sidebars.php:142
+msgid "Office"
+msgstr "Bureau"
+
+#: sidebars/register-sidebars.php:143
+msgid ""
+"<p>1180 Seven Seas Dr<br/>Lake Buena Vista, FL 32830</p>\n"
+"\n"
+"<p>Tel: 1.AUTO.88MAX</p>\n"
+"\n"
+"info@gorillathemesauto.com"
+msgstr ""
+
+#: sidebars/register-sidebars.php:152
+msgid "Directions"
+msgstr "Directions"
+
+#: sidebars/register-sidebars.php:153
+msgid "1180 Seven Seas Dr, Lake Buena Vista, FL 32830"
+msgstr ""
+
+#: sidebars/register-sidebars.php:158
+msgid "Deal of the Week"
+msgstr "Spéciale de la Semaine"
+
+#: sidebars/register-sidebars.php:164
+msgid "Search by Vehcile Type"
+msgstr "Recherché par Type de Véhicule"
+
+#: sidebars/register-sidebars.php:174
+msgid "Automotive: Loan Calculator"
+msgstr "Automobile: Calculateur de Prêt"
+
+#: sidebars/register-sidebars.php:176
+msgid "Top Search Module"
+msgstr "Recherche de Module du Haut "
+
+#: sidebars/register-sidebars.php:260
+msgid "Purchase price: "
+msgstr "Prix d'achat: "
+
+#: sidebars/register-sidebars.php:270
+msgid "Down Payment: "
+msgstr "Acompte: "
+
+#: sidebars/register-sidebars.php:280
+msgid "Interest Rate: "
+msgstr "Intérêt: "
+
+#: sidebars/register-sidebars.php:290
+msgid "Loan Term: "
+msgstr "Terme: "
+
+#: sidebars/register-sidebars.php:300
+msgid "Monthly Payment:  "
+msgstr "Mensualité: "
+
+#: sidebars/register-sidebars.php:316 sidebars/register-sidebars.php:437
+#: sidebars/register-sidebars.php:489 sidebars/register-sidebars.php:536
+#: sidebars/register-sidebars.php:581 sidebars/register-sidebars.php:797
+#: sidebars/register-sidebars.php:834
+msgid "Title: "
+msgstr "Titre:"
+
+#: sidebars/register-sidebars.php:330
+msgid "Automotive Top Deals"
+msgstr "Meilleurs Offres Automotive "
+
+#: sidebars/register-sidebars.php:332
+msgid "Top Deals Widget in Sidebar"
+msgstr "Widget dans la barre latérale des Meilleurs Offres"
+
+#: sidebars/register-sidebars.php:384
+msgid "Widget title."
+msgstr "Titre du Widget"
+
+#: sidebars/register-sidebars.php:387
+msgid "Number"
+msgstr "Nombre"
+
+#: sidebars/register-sidebars.php:389
+msgid "Number of vehicles."
+msgstr "Nombre de véhicules."
+
+#: sidebars/register-sidebars.php:446 sidebars/register-sidebars.php:596
+msgid "Automatically add paragraphs"
+msgstr "Ajouter automatiquement les paragraphes"
+
+#: sidebars/register-sidebars.php:493
+msgid "Address: "
+msgstr "Adresse:"
+
+#: sidebars/register-sidebars.php:558
+msgid "Learn more"
+msgstr "Pour Plus d'informations"
+
+#: sidebars/register-sidebars.php:587
+msgid "URL for full page : "
+msgstr "URL pour la pleine page:"
+
+#: sidebars/register-sidebars.php:606
+msgid "Automotive: Featured Vehicles Module"
+msgstr "Automobile: Module des Véhicules en Vedette"
+
+#: sidebars/register-sidebars.php:607
+msgid "Featured Vehicles Module in Single Listing Page"
+msgstr "Module des Véhicules en Vedette sur une page d'inscription"
+
+#: sidebars/register-sidebars.php:718
+msgid "Number of vehicles"
+msgstr "Nombre de véhicules"
+
+#: sidebars/register-sidebars.php:722
+msgid "Title:"
+msgstr "Titre:"
+
+#: sidebars/register-sidebars.php:726
+msgid "Number of Vehicles:"
+msgstr "Nombre de Véhicule:"
+
+#: sidebars/register-sidebars.php:765
+msgid "Phone Number: "
+msgstr "Numéro de téléphone:"
+
+#: sidebars/register-sidebars.php:999
+msgid "Number of listings: "
+msgstr "Nombre d'annonces:"
+
+#: sidebars/register-sidebars.php:1065
+msgid "EPA City MPG:"
+msgstr "Écon. de carburant ville"
+
+#: sidebars/register-sidebars.php:1067
+msgid "EPA Highway MPG:"
+msgstr "Écon. de carburant autoroute"
+
+#: sidebars/register-sidebars.php:1069
+msgid "Front Air Conditioning:"
+msgstr "Climatisation Avant :"
+
+#: sidebars/register-sidebars.php:1071
+msgid "Front Brake Type:"
+msgstr "Type de freinage Avant :"
+
+#: sidebars/register-sidebars.php:1073
+msgid "Antilock Braking System:"
+msgstr "Système de Freinage Antiblocage:"
+
+#: sidebars/register-sidebars.php:1075
+msgid "Braking Assist:"
+msgstr "Freinage Assister"
+
+#: sidebars/register-sidebars.php:1077
+msgid "Rear Brake Diameter:"
+msgstr "Diamètre Frein Arrière:"
+
+#: sidebars/register-sidebars.php:1079
+msgid "Auto Dimming Rearview Mirror:"
+msgstr "Variateur Automatique du Rétroviseur Arrière"
+
+#: sidebars/register-sidebars.php:1081
+msgid "Running Boards:"
+msgstr "Marchepieds:"
+
+#: sidebars/register-sidebars.php:1083
+msgid "Roof Rack:"
+msgstr "Porte-bagages de toit"
+
+#: sidebars/register-sidebars.php:1085
+msgid "Power Door Locks:"
+msgstr "Verrouillage Électrique des Portes"
+
+#: sidebars/register-sidebars.php:1087
+msgid "Anti Theft Alarm System:"
+msgstr "Système D'alarme Antivol"
+
+#: sidebars/register-sidebars.php:1089
+msgid "Cruise Control:"
+msgstr "Régulateur de Vitesse"
+
+#: sidebars/register-sidebars.php:1091
+msgid "First Row Vanity Mirros:"
+msgstr "Miroir de Vanité en Première Rangée"
+
+#: sidebars/register-sidebars.php:1093
+msgid "Heated Driver Side Mirror:"
+msgstr "Miroir Côté Conducteur Chauffant"
+
+#: sidebars/register-sidebars.php:1095
+msgid "Heated Driver Passenger Mirror:"
+msgstr "Miroirs Chauffants Conducteur et Passager"
+
+#: sidebars/register-sidebars.php:1097
+msgid "Trailer Wiring:"
+msgstr "Câblage de Remorque"
+
+#: sidebars/register-sidebars.php:1099
+msgid "Trailer Hitch:"
+msgstr "Attache-Remorque"
+
+#: sidebars/register-sidebars.php:1101
+msgid "Cruise Control on Steering Wheel:"
+msgstr "Régulateur de Vitesse sur Volant"
+
+#: sidebars/register-sidebars.php:1103
+msgid "Audio Control on Steering Wheel:"
+msgstr "Contrôle Audio sur Volant"
+
+#: sidebars/register-sidebars.php:1105
+msgid "Folding Second Row Seats:"
+msgstr "Sièges Deuxième Rangée Rabattables "
+
+#: sidebars/register-sidebars.php:1107
+msgid "First Row Power Outlet:"
+msgstr "Prise de Courant Première Rangée"
+
+#: sidebars/register-sidebars.php:1109
+msgid "Cargo Area Power Outlet:"
+msgstr "Prise de Courant du Cargaison"
+
+#: sidebars/register-sidebars.php:1111 sidebars/register-sidebars.php:1113
+msgid "Independent Suspension:"
+msgstr "Suspension Indépendante"
+
+#: sidebars/register-sidebars.php:1115
+msgid "Rear Suspension Type:"
+msgstr "Type de Suspension Arrière"
+
+#: sidebars/register-sidebars.php:1117
+msgid "Maximum Cargo Capacity Suspension:"
+msgstr "Capacité du Cargo maximale de Suspension"
+
+#: sidebars/register-sidebars.php:1119
+msgid "Passenger Airbags:"
+msgstr "Sac Gonflable Passager"
+
+#: sidebars/register-sidebars.php:1189
+msgid ""
+"<strong>Enter Vehicle Specifications title:</strong> <br/>(leave empty to "
+"hide) "
+msgstr ""
+"<strong>Inscrivez le titre et Caractéristiques du véhicule:</strong> <br/"
+">(leave empty to hide) "
+
+#: sidebars/register-sidebars.php:1195
+msgid ""
+"<strong>Enter title for second module:</strong> <br/>(leave empty to hide)"
+msgstr ""
+"<strong>Inscrivez le titre du module: secondaire</strong> <br/>(leave empty "
+"to hide)"
+
+#: sidebars/register-sidebars.php:1202
+msgid "Enter title for third module:</strong> <br/>(leave empty to hide)"
+msgstr ""
+"Inscrivez le titre du troisième module</strong> <br/>(leave empty to hide)"
+
+#: sidebars/register-sidebars.php:1209
+msgid ""
+"<strong>Enter title for fourth module:</strong> <br/>(leave empty to hide)"
+msgstr ""
+"<strong>Inscrivez le titre du quatrième module</strong> <br/>(leave empty to "
+"hide)"
+
+#: single-gtcd.php:34
+msgid "Overview"
+msgstr "Aperçu"
+
+#: single-gtcd.php:43
+msgid "Video"
+msgstr "Vidéo"
+
+#: single-gtcd.php:48
+msgid "Contact Us"
+msgstr "Contactez nous"
+
+#: single-gtcd.php:109 single-gtcd.php:138
+msgid "I would like to request more information about your"
+msgstr "Je voudrais demander plus d'informations sur votre"
+
+#: single-gtcd.php:109
+msgid "with Stock Number #"
+msgstr "avec Numéro de Stock #"
+
+#: single-gtcd.php:138
+msgid "Vehicle information request"
+msgstr "Demande d'informations sur le véhicule"
+
+#: single-gtcd.php:138
+msgid " with Stock Number #"
+msgstr " avec Numéro de Stock #"
+
+#: single-gtcd.php:139
+msgid "Request Information"
+msgstr "Demande D'informations"
+
+msgid "Phone: "
+msgstr "Téléphone:"
+
+msgid "Full Specifications"
+msgstr "Caractéristiques"
+
+msgid "Warranty"
+msgstr "Garantie"
+
+msgid "Financing"
+msgstr "Financement"
+
+msgid "Trade-In"
+msgstr "Échange"
+
+msgid "Years"
+msgstr "Années"

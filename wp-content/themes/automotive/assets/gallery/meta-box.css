@@ -1,0 +1,9 @@
+.rw-label {width: 20%}
+.rw-select {height: auto !important}
+.rw-images li {margin: 10px 10px 7px 10px; float: left; width: 132px; height: 100px; text-align: center;  cursor:move; position: relative;}
+.rw-images img {-webkit-border-radius:4px; -moz-border-radius:4px; border-radius:4px; box-shadow: 0px 1px 4px #7b7479; -webkit-box-shadow: 0px 1px 4px #7b7479; -moz-box-shadow: 0px 1px 4px #7b7479;}
+.rw-images a {position: absolute; bottom: 0; right: 0; color: #fff; font-weight: bold;}
+.rw-images a.delete{margin-bottom:10px;padding:5px;text-decoration: none;width: 122px;opacity: .6;background: #000; }
+.rw-images a.delete:hover{padding:5px;text-decoration: underline;width: 122px;opacity: 1;background: #333; }
+.rw-upload-button {float: left; clear: both; margin-top: -24px}
+.rw-field .mceIframeContainer {background: #fff}

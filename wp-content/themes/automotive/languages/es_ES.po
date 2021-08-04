@@ -1,0 +1,2901 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Automotive Translation 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+
+#. Text in function
+#: automotive-deluxe/category.php:7 automotive-deluxe/tag.php:7
+msgid " Category"
+msgstr "Categoría"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:318
+msgid " Hide in Search Module."
+msgstr "Escóndete en Módulo de búsqueda:"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:178
+msgid " and insert the alphanumeric key in the input field."
+msgstr "e insertar la clave alfanumérica en el campo de entrada."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:77
+msgid " has successfully imported "
+msgstr "ha importado con éxito"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:1308
+msgid " images in  gallery"
+msgstr "Imágenes en Galería"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:77
+msgid " listings as "
+msgstr "Mostrar listdos como:"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:78
+msgid " listings that were skipped because they already exist from a previous import."
+msgstr "anuncios que fueron omitidos porque ya existen de una importación anterior."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:77
+msgid " status under Inventory."
+msgstr "estado bajo inventario."
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:178
+msgid " to obtain your API key"
+msgstr "para obtener tu clave de API"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:
+msgid " to see your imported listings."
+msgstr "para ver tus anuncios importados."
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "$"
+msgstr "$"
+
+#. Text in function
+#: automotive-deluxe/comments.php:13
+msgid "% Comments"
+msgstr "% Commentarios"
+
+#. Text in function
+#: automotive-deluxe/functions.php:783
+msgid "%s Form & PayPal Configuration"
+msgstr "%s Configuración de PayPal"
+
+#. Text in function
+#: automotive-deluxe/functions.php:540
+msgid "%s Theme Options"
+msgstr "Opciones del Tema %s"
+
+#. Text in echo
+#: automotive-deluxe/taxonomy.php:148 automotive-deluxe/inventory.php:138
+#: automotive-deluxe/results.php:268
+#: automotive-deluxe/sidebars/register-sidebars.php:655
+#: automotive-deluxe/arrivals.php:79
+msgid "0"
+msgstr "0"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "0.99"
+msgstr "0.99"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:10
+msgid "1. Name this import schedule."
+msgstr "1. nombre de este programa de importación."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/upload.php:3
+msgid "1. Select the type of file to import."
+msgstr "1. Seleccione el tipo de archivo a importar."
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "1180 Seven Seas Dr, Lake Buena Vista, FL 32830"
+msgstr "1180 Seven Seas Dr, Lake Buena Vista, FL 32830"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "1990"
+msgstr "1990"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:17
+msgid "2. Schedule Status."
+msgstr "2. Estado del Programa"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/upload.php:15
+msgid "2. Select your file and click Upload File"
+msgstr "Seleccionar el archivo para cargar"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/upload.php:30
+msgid "3. Click continue to map your fields."
+msgstr "3. Haga clic en continuar para asignar los campos."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:27
+msgid "3. Select the type of file to import."
+msgstr "3. Seleccione el tipo de archivo a importar."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:39
+msgid "4. Specify frequency of scheduler (hours)"
+msgstr "4.  Especifique la Frecuencia"
+
+#. Text in echo
+#: automotive-deluxe/404.php:6
+msgid "404 Page Not Found!"
+msgstr "404 Página no encontrada!"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "4WD-AWD"
+msgstr "4WD-AWD"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:50
+msgid "5. Specify your file URL"
+msgstr "5. Especificar la URL de su archivo"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:56
+msgid "6. Click continue to map your fields."
+msgstr "3. Haga clic en continuar para asignar los campos."
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "<p>1180 Seven Seas Dr<br/>Lake Buena Vista, FL 32830</p"
+msgstr "<p>1180 Seven Seas Dr<br/>Lake Buena Vista, FL 32830</p"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:1189
+msgid "<strong>Enter Vehicle Specifications title:</strong> <br/>(leave empty to hide) "
+msgstr "<strong> Introduzca el título por segundo módulo: </ strong> <br/> (dejar en blanco para ocultar)"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:1209
+msgid "<strong>Enter title for fourth module:</strong> <br/>(leave empty to hide)"
+msgstr "<strong>Introduzca el título de cuarto módulo:</strong> <br/>(dejar en blanco para ocultar)"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:1195
+msgid "<strong>Enter title for second module:</strong> <br/>(leave empty to hide)"
+msgstr "<strong> Introduzca el título por segundo módulo: </ strong> <br/> (dejar en blanco para ocultar)"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:168
+msgid "API Key Updated!"
+msgstr "API Key actualizado!"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Accordion widget in listing page "
+msgstr "Widget de acordeón en el listado de la página"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/list.php:35
+msgid "Action"
+msgstr "Acción"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:21
+msgid "Active"
+msgstr "Activo "
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Add New Features"
+msgstr "Añadir características"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Add New Location"
+msgstr "Agregar Nueva Ubicación"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Add New Make & Model"
+msgstr "Añadir nueva marca y modelo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/post-type.php:1
+msgid "Add New Vehicle"
+msgstr "Añadir nuevo Vehículo"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Add all Automotive widgets here"
+msgstr "Añadir widgets automotrices aquí"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:493
+msgid "Address: "
+msgstr "Dirección: "
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "All Features"
+msgstr "Todas las Características"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "All Locations"
+msgstr "Ubicaciones"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "All Make & Models"
+msgstr "Todos las marcas & modelos"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Anti Theft Alarm System"
+msgstr "Anti sistema de alarma de robo"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1087
+msgid "Anti Theft Alarm System:"
+msgstr "Anti sistema de alarma de robo:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Antilock Braking System"
+msgstr "Sistema de frenos antibloqueo"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1073
+msgid "Antilock Braking System:"
+msgstr "Sistema de frenos antibloqueo:"
+
+#. Text in echo
+#: automotive-deluxe/results.php:119
+msgid "Any price"
+msgstr "Cualquier precio"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Appearance"
+msgstr "Apariencia"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Audio Control on Steering Wheel"
+msgstr "Control de audio en volante"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1103
+msgid "Audio Control on Steering Wheel:"
+msgstr "Control de audio en volante"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Auto Dimming Rearview Mirror"
+msgstr "Auto espejo retrovisor con atenuación:"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1079
+msgid "Auto Dimming Rearview Mirror:"
+msgstr "Auto espejo retrovisor con atenuación:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Automatic"
+msgstr "Automático"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:596
+msgid "Automatically add paragraphs"
+msgstr "Añadir párrafos automáticamente"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Automotive Carousel"
+msgstr "Automotive Carousel"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:205
+msgid "Automotive Search Options Setup"
+msgstr "Configuración de opciones de búsqueda automotriz"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Automotive Sidebar"
+msgstr "Barra lateral automotriz"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Automotive Top Deals"
+msgstr "Ofertas Top automotivas"
+
+#. Text in echo
+#: automotive-deluxe/footer.php:15
+msgid "Automotive by "
+msgstr "Automotriz por"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Automotive: Featured Vehicles Module"
+msgstr "Automotriz: Módulo de vehículos recomendados"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Automotive: Loan Calculator"
+msgstr "Automotriz: Calculadora de préstamo"
+
+#. Text in echo
+#: automotive-deluxe/taxonomy.php:208 automotive-deluxe/inventory.php:197
+#: automotive-deluxe/results.php:334
+msgid "BACK TO TOP"
+msgstr "Volver arriba."
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Bore"
+msgstr "Diámetro:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Bore:"
+msgstr "Diámetro:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Braking Assist"
+msgstr "Sistema de frenos antibloqueo"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1075
+msgid "Braking Assist:"
+msgstr "Sistema de frenos antibloqueo"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Business phone number in header"
+msgstr "Número de teléfono en Cabecera"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Buttons Background Color"
+msgstr "Color de fondo de los botones"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Buttons background color"
+msgstr "Color de fondo de los botones"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:32
+#: automotive-deluxe/assets/import/file/includes/upload.php:8
+msgid "CSV"
+msgstr "CSV"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Camshaft"
+msgstr "Árbol de levas"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Camshaft:"
+msgstr "Árbol de levas:"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/map.php:36
+msgid "Car Dealer Import Primary Key"
+msgstr "\bImportación clave principal"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/map.php:116
+#: automotive-deluxe/assets/import/schedule/includes/map.php:115
+msgid "Car Dealer Meta Fields"
+msgstr "Meta campos"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/map.php:245
+#: automotive-deluxe/assets/import/schedule/includes/map.php:284
+msgid "Car Dealer Photo Gallery"
+msgstr "Galería de Fotos"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/map.php:87
+#: automotive-deluxe/assets/import/schedule/includes/map.php:81
+msgid "Car Dealer Post Title"
+msgstr "Título de la publicación"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/map.php:149
+#: automotive-deluxe/assets/import/schedule/includes/map.php:153
+msgid "Car Dealer Taxonomy"
+msgstr "Taxonomía"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/index.php:5
+msgid "Car Dealer XML-CSV Batch Vehicle Import"
+msgstr "Importar CSV XML "
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:5
+#: automotive-deluxe/assets/import/schedule/includes/complete.php:5
+#: automotive-deluxe/assets/import/schedule/includes/map.php:5
+msgid "Car Dealer XML-CSV Batch Vehicle Import Scheduler"
+msgstr "Importar CSV XML Programada"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/list.php:5
+msgid "Car Dealer XML-CSV Batch Vehicle Import Schedules"
+msgstr "Programas para Importar CSV XML "
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Carfax Parner ID"
+msgstr "Carfax Socio ID:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Carfax Partner ID:"
+msgstr "Carfax Socio ID:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Cargo Area Power Outlet"
+msgstr "Toma de corriente de carga área:"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1109
+msgid "Cargo Area Power Outlet:"
+msgstr "Toma de corriente de carga área:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:38
+msgid "City"
+msgstr "Ciudad"
+
+#. Text in echo
+#: automotive-deluxe/results.php:613
+msgid "City (Select State First)"
+msgstr "Ciudad"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:181
+msgid "Clear form"
+msgstr "Limpiar formulario"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/metaboxes.php:788
+msgid "Click here to setup your VIN Decoder"
+msgstr "Haga clic aquí para configurar tu decodificador de VIN"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Comments"
+msgstr "Comentários"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:23
+msgid "Comments are closed."
+msgstr "Los comentarios están desactivados"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Compression Ratio"
+msgstr "Radio de compresión"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Compression Ratio:"
+msgstr "Relación de compresión:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Condition"
+msgstr "Condición"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Condition:"
+msgstr "Condición:"
+
+#. Text in echo
+#: automotive-deluxe/single-gtcd.php:48
+msgid "Contact Us"
+msgstr "Contáctanos"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/metaboxes.php:1165
+msgid "Contact:"
+msgstr "Contacto:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Convertibles"
+msgstr "Descapotable"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/metaboxes.php:1164
+msgid "Copy & Paste the generated code into your Craigslist ad."
+msgstr "Copiar y pegar el código generado en su anuncio de Craigslist."
+
+#. Text in echo
+#: automotive-deluxe/assets/init/metaboxes.php:1163
+msgid "Craigslist Code:"
+msgstr "Código de Craigslist:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Crossovers"
+msgstr "Crossover"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Cruise Control"
+msgstr "Control de velocidad"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Cruise Control on Steering Wheel"
+msgstr "Control de crucero en volante"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1101
+msgid "Cruise Control on Steering Wheel:"
+msgstr "Control de crucero en el volante:"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1089
+msgid "Cruise Control:"
+msgstr "Control de crucero"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Curb Weight"
+msgstr "Peso de encintado"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Curb Weight:"
+msgstr "Peso del encintado:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Currency:"
+msgstr "Moneda:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Cylinders"
+msgstr "Cilindros"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Cylinders:"
+msgstr "Cilindros:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Dashboard"
+msgstr "Tablero"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/list.php:32
+msgid "Date Created"
+msgstr "Fecha de Creación:"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/list.php:34
+msgid "Date Last Processed"
+msgstr "Fecha de procesamiento"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/list.php:33
+msgid "Date Updated"
+msgstr "Fecha de Actualización"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Deal of the Week"
+msgstr "Oferta de la semana"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:1165
+msgid "Delete"
+msgstr "Eliminar"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+#: automotive-deluxe/assets/init/metaboxes.php:1165
+msgid "Description"
+msgstr "Descripción "
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Description:"
+msgstr "Descripcion:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Diesel Engines"
+msgstr "Motores diésel"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Directions"
+msgstr "Direcciones"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:270
+msgid "Down Payment: "
+msgstr "Anticipo:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:79 automotive-deluxe/functions.php:795
+msgid "Drive"
+msgstr "Conducción"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Drive:"
+msgstr "Conducción:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "EPA City MPG."
+msgstr "Consumo Urbano"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1065
+msgid "EPA City MPG:"
+msgstr "Consumo Urbano"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "EPA Highway MPG."
+msgstr "Consumo Interurbano"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1067
+msgid "EPA Highway MPG:"
+msgstr "Consumo Interurbano"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "EPA Mileage"
+msgstr "EPA Millas:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Edit Features"
+msgstr "Editar características"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Edit Locations"
+msgstr "Editar ubicaciones"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Edit Make & Model"
+msgstr "Editar marca y modelo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/post-type.php:1
+msgid "Edit Vehicle"
+msgstr "Editar Vehículo"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:178
+msgid "Edmunds Developer Portal"
+msgstr "Portal de desarrolladores de Edmunds"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:183
+msgid "Edmunds Public API Key"
+msgstr "Clave de API pública de Edmunds"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:156
+msgid "Email"
+msgstr "Correo electronico"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Engine Size"
+msgstr "Tamaño del motor"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Engine Size:"
+msgstr "Tamaño del motor:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Engine Tye:"
+msgstr "Motor"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Engine Type"
+msgstr "Tamaño del motor"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Anti Theft Alarm System"
+msgstr "Anti sistema de alarma de robo:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Antilock Braking System"
+msgstr "Sistema de frenos antibloqueo:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Audio Control on Steering Wheel"
+msgstr "Control de audio en volante"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Auto Dimming Rearview Mirror"
+msgstr "Entrar en espejo retrovisor de atenuación automática"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Braking Assist"
+msgstr "Sistema de frenos antibloqueo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter Carfax partner ID to offer free reports with your vehicle."
+msgstr "Introduzca el ID de asociado de Carfax para ofrecer informes gratis con su vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Cargo Area Power Outlet"
+msgstr "Toma de corriente de carga área:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Cruise Control"
+msgstr "Control de velocidad"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Cruise Control on Steering Wheel"
+msgstr "Introducir Control de crucero en el volante"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter EPA City MPG."
+msgstr "Consumo Urbano"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter EPA Highway MPG."
+msgstr "Consumo Interurbano"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter First Row Power Outlet"
+msgstr "Toma de corriente de primera fila:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter First Row Vanity Mirrors"
+msgstr "Espejos de vanidad delanteros:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Folding Second Row Seats"
+msgstr "Asientos de segunda fila plegable:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Front Air Conditioning"
+msgstr "Aire acondicionado delantero"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Front Brake Type"
+msgstr "Tipo de freno delantero"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Front Suspension Type"
+msgstr "Tipo de suspensión delantera"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Heated Driver Side Mirror"
+msgstr "Espejo lateral izquierda"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Heated Passenger Side Mirror"
+msgstr "Espejo lateral derecho"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Independent Suspension"
+msgstr "Entrar suspensión independiente"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Maximum Cargo Capacity Suspension"
+msgstr "Suspensión capacidad de carga máxima"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Passenger Airbags"
+msgstr "Airbag de pasajero:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Power Door Locks"
+msgstr "Cierre centralizado"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Rear Brake Diameter"
+msgstr "Diámetro del freno trasero:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Rear Suspension Type"
+msgstr "Suspension trasera"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Roof Rack"
+msgstr "Portaequipajes"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Running Boards"
+msgstr "Estribos"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Trailer Hitch"
+msgstr "Enganche de remolque"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter Trailer Wiring"
+msgstr "Cableado de remolque"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:86
+msgid "Enter VIN number"
+msgstr "Ingrese número de VIN"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Enter Vehicle Year, Make & Model"
+msgstr "Ingrese el año del vehículo, marca y modelo"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:72
+msgid "Enter exterior color"
+msgstr "Color Exterior del vehículo"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:76
+msgid "Enter interior color"
+msgstr "Color interior del vehículo"
+
+#. Text in echo
+#: automotive-deluxe/searchform.php:2
+msgid "Enter keywords..."
+msgstr "Buscar…"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:27
+msgid "Enter listing title"
+msgstr "Título del anuncio"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/metaboxes.php:813
+msgid "Enter number here..."
+msgstr "Introduzca número"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter number of cylinders."
+msgstr "Número de cilindros."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter the Vehicle Type."
+msgstr "Introduzca el tipo de vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter the full vehicle price without commas or dots."
+msgstr "Introduzca el precio del vehículo completo sin comas o puntos."
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:1202
+msgid "Enter title for third module:</strong> <br/>(leave empty to hide)"
+msgstr "Introduzca el título de tercer módulo: </ strong> <br/> (dejar en blanco para ocultar)"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter vehicle condition."
+msgstr "Ingrese el estado del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle curb weight"
+msgstr "Introduzca el peso del encintado del vehículo"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:80
+msgid "Enter vehicle drive"
+msgstr "Introduzca el tipo de transmisión del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter vehicle drive type."
+msgstr "Introduzca el tipo de transmisión del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle engine size."
+msgstr "Introduzca el tamaño del motor del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle engine type."
+msgstr "Introduzca el tipo de motor del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter vehicle exterior color."
+msgstr "Introduzca el color exterior del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle fuel capacity."
+msgstr "Entrar en capacidad del combustible del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle head room."
+msgstr "Introduzca la altura de cabecera de vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle height."
+msgstr "Introduzca la altura del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle horsepower."
+msgstr "Introduzca la potencia del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter vehicle identification number."
+msgstr "Introduzca el número de identificación del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter vehicle interior color."
+msgstr "Introduzca el color interior del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle leg room"
+msgstr "Entrar en espacio para las piernas vehículo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter vehicle mileage."
+msgstr "Millaje del vehículo."
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:66
+msgid "Enter vehicle miles"
+msgstr "Entrar millas"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle overall length"
+msgstr "Ingrese longitud de vehículo"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:62
+msgid "Enter vehicle price"
+msgstr "Introduzca el precio del vehículo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle seating capacity"
+msgstr "Introducir la capacidad de asientos del vehículo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter vehicle stock number."
+msgstr "Introduzca el número de stock del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle tires."
+msgstr "Entrar neumáticos del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter vehicle transmission type."
+msgstr "Introduzca el tipo de transmisión del vehículo."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle wheelbase"
+msgstr "Entrar en distancia entre ejes de vehículo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Enter vehicle width"
+msgstr "Introduzca la anchura del vehículo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Enter vehicle year."
+msgstr "Escriba el año del vehículo."
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:157
+msgid "Enter your e-mail"
+msgstr "Introduce tu correo electrónico"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:147
+msgid "Enter your first name"
+msgstr "Ingresa tu primer nombre"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:187
+msgid "Enter your full alphanumeric key."
+msgstr "Introduzca su código alfanumérico completo."
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:151
+msgid "Enter your last name"
+msgstr "Ingrese su apellido"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:161
+msgid "Enter your phone number"
+msgstr "Introduzca su número de teléfono."
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Epa Mileage:"
+msgstr "EPA Millas:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:71 automotive-deluxe/functions.php:795
+msgid "Exterior"
+msgstr "Exterior"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Exterior:"
+msgstr "Exterior:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:1555
+msgid "Facebook Profile"
+msgstr "Perfil de Facebook"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Featured"
+msgstr "Destacado"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:763
+msgid "Featured Post"
+msgstr "Artículos Destacado"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Featured Vehicles"
+msgstr "Vehículos Destacados"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Featured Vehicles Module in Single Listing Page"
+msgstr "Módulo de vehículos recomendados en la página de listado único"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Featured vehicles widget"
+msgstr "Widget de vehículos recomendados"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Featured:"
+msgstr "Destacado:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:89 automotive-deluxe/functions.php:795
+#: automotive-deluxe/single-gtcd.php:38
+#: automotive-deluxe/assets/init/taxonomies.php:1
+#: automotive-deluxe/assets/init/metaboxes.php:1165
+msgid "Features"
+msgstr "Caracteristicas"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Features:"
+msgstr "Características:"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:209
+msgid "Fields"
+msgstr "Campos"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:77
+msgid "File"
+msgstr "Archivo"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/map.php:246
+#: automotive-deluxe/assets/import/schedule/includes/map.php:285
+msgid "File Import Fields"
+msgstr "1. Seleccione el tipo de archivo a importar."
+
+#. Text in echo
+#: automotive-deluxe/functions.php:41
+msgid "Filter By Stock Number"
+msgstr "Filtrar por número de Stock"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Find by Vehicle Type"
+msgstr "Buscar por tipo de vehículo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "First Row Power Outlet"
+msgstr "Toma de corriente de primera fila:"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1107
+msgid "First Row Power Outlet:"
+msgstr "Toma de corriente de primera fila:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "First Row Vanity Mirrors"
+msgstr "Espejos de vanidad delanteros:"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1091
+msgid "First Row Vanity Mirros:"
+msgstr "Espejos de vanidad delanteros:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:146
+msgid "First name"
+msgstr "Primer nombre"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Folding Second Row Seats"
+msgstr "Segunda fila de asientos plegables"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1105
+msgid "Folding Second Row Seats:"
+msgstr "Asientos de segunda fila plegable:"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Footer"
+msgstr "Pié de la Página"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Footer widgets"
+msgstr "Widget de Pie de Página"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Front Air Conditioning"
+msgstr "Aire acondicionado delantero"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1069
+msgid "Front Air Conditioning:"
+msgstr "Aire acondicionado delantero"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Front Brake Type"
+msgstr "Tipo de freno delantero"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1071
+msgid "Front Brake Type:"
+msgstr "Tipo de freno delantero:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Front Suspension Type"
+msgstr "Tipo de suspensión delantera"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Fuel Capacity"
+msgstr "Capacidad de combustible:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Fuel Capacity:"
+msgstr "Capacidad de combustible:"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:178
+msgid "Go to "
+msgstr "Ve a"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:1563
+msgid "Google+ Profile"
+msgstr "Perfil de Google+"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Gtalk"
+msgstr "Gtalk"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Head Room"
+msgstr "Espacio para la cabeza:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Head Room:"
+msgstr "Espacio para la cabeza:"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Header Phone Number"
+msgstr "Teléfono del Encabezado"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Headers Color"
+msgstr "Color de cabeceras"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Headers Text Color"
+msgstr "Color del texto de los encabezados"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Heated Driver Passenger Mirror"
+msgstr "Espejo calefaccionado de pasajero"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1095
+msgid "Heated Driver Passenger Mirror:"
+msgstr "Espejo calefaccionado de pasajero:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Heated Driver Side Mirror"
+msgstr "Espejo calefaccionado de conductor"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1093
+msgid "Heated Driver Side Mirror:"
+msgstr "Espejo calefaccionado de conductor:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Height"
+msgstr "Altura"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Height:"
+msgstr "Altura:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:507
+msgid "Hide in Search Module."
+msgstr "Esconder en Módulo de búsqueda."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/map.php:152
+#: automotive-deluxe/assets/import/schedule/includes/map.php:156
+msgid "Hierarchy"
+msgstr "Jerarquía"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Homepage Slideshow"
+msgstr "Slideshow de página principal"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Horsepower"
+msgstr "Hp"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Horsepower:"
+msgstr "Hp"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Hybrids"
+msgstr "Híbridos"
+
+#. Text in echo
+#: automotive-deluxe/single-gtcd.php:138
+msgid "I would like to request more information about your"
+msgstr "Me gustaría solicitar más información acerca de su"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "If YES selected the image of this post will be displayed in the home slideshow."
+msgstr "Si selecciona Sí la imagen de este post se mostrará en el carousel"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "If yes this Vehicle will show up on the Top Deals Widget."
+msgstr "Si selecciona \"Si\" este vehículo se mostrará en el Widget de ofertas."
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "If yes this Vehicle will show up on the home page featured module."
+msgstr "Si selecciona \"Si\" este vehículo se mostrará en el module destacado."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:79
+msgid "If you notice that some of your listings do not have photos attached it is because they were not found in the database."
+msgstr "Si nota que algunos de sus anuncios no contienen imagenes es porque no fueron encontrados en la base de datos."
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:108
+msgid "Image Gallery &raquo;"
+msgstr "Galería de imágenes»"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:123
+msgid "Images will be automatically resized to fit the listing layout. We recommend that you upload photos in full resolution for better results."
+msgstr "Haga clic en  \"Más fotos\" para agregar todas las imágenes, todas las fotos serán redimensionadas automáticamente para ajustarse al diseño del listado. Le recomendamos  subir fotos de resolución completa para obtener mejores resultados."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/map.php:55
+msgid "Import Primary Key"
+msgstr "Importar clave primaria"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:22
+msgid "Inactive"
+msgstr "Inactivo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Independent Suspension"
+msgstr "Suspensión independiente"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1111
+#: automotive-deluxe/sidebars/register-sidebars.php:1113
+msgid "Independent Suspension:"
+msgstr "Suspensión independiente:"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:185
+msgid "Insert API key..."
+msgstr "Por favor inserte el API Key"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:1330
+msgid "Insert Image into Input Field"
+msgstr "Insertar imagen en el campo de entrada"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:280
+msgid "Interest Rate: "
+msgstr "Tasa de interés:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:75 automotive-deluxe/functions.php:795
+msgid "Interior"
+msgstr "Interior"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Interior:"
+msgstr "Interior:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/post-type.php:1
+msgid "Inventory"
+msgstr "Inventario"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/map.php:43
+msgid "Is there a Primary Key?"
+msgstr "¿Existe una clave principal?"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:150
+msgid "Last name"
+msgstr "Apellido"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:558
+msgid "Learn more"
+msgstr "Leer mas"
+
+#. Text in function
+#: automotive-deluxe/comments.php:53
+msgid "Leave A Reply"
+msgstr "Dejar Respuesta"
+
+#. Text in function
+#: automotive-deluxe/comments.php:53
+msgid "Leave a reply"
+msgstr "Responder/Comentar"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Leg Room"
+msgstr "Espacio para las piernas"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Leg Room:"
+msgstr "Espacio para las piernas:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Links"
+msgstr "Enlaces"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "Listing Price:"
+msgstr "Precio de lista:"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:290
+msgid "Loan Term: "
+msgstr "Duración del crédito"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Location"
+msgstr "Ubicación"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Location:"
+msgstr "Ubicacion:"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:62
+msgid "Log out"
+msgstr "Cerrar sesión"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:62
+msgid "Logged in as "
+msgstr "Conectado como "
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Logo text Color"
+msgstr "Color del texto del logotipo"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Luxury Vehicles"
+msgstr "Vehículos de lujo"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:65
+msgid "Mail*"
+msgstr "Correo*"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Main menu background color."
+msgstr "Color de Fondo del Menú Principal"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Main menu text color."
+msgstr "Color del menú principal"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:45
+msgid "Make"
+msgstr "Marca"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Make & Model"
+msgstr "Marca y Modelo"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Make & Model:"
+msgstr "Marca y Modelo:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Manual"
+msgstr "Manual"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Maximum Cargo Capacity Suspension"
+msgstr "Suspensión y capacidad de carga máxima"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1117
+msgid "Maximum Cargo Capacity Suspension:"
+msgstr "Suspensión y capacidad de carga máxima"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Menu Background"
+msgstr "Fondo del Menú"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Menu Text"
+msgstr "Texto del menú"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:65 automotive-deluxe/functions.php:795
+#: automotive-deluxe/results.php:182
+msgid "Miles"
+msgstr "Millas"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Miles:"
+msgstr "Millas:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Minivans and Vans"
+msgstr "Vans y minivans"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:49
+msgid "Model"
+msgstr "Modelo"
+
+#. Text in echo
+#: automotive-deluxe/results.php:673
+msgid "Model (Select Make First)"
+msgstr "Modelo"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:300
+msgid "Monthly Payment:  "
+msgstr "Pago mensual:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:130
+msgid "Name"
+msgstr "Nombre"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:64
+msgid "Name*"
+msgstr "Nombre*"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "New"
+msgstr "Nuevo"
+
+#. Text in echo
+#: automotive-deluxe/arrivals.php:6
+msgid "New Arrivals"
+msgstr "Novedades"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "New Features"
+msgstr "Añadir características"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "New Location"
+msgstr "Nuevo Destino"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "New Make & Model"
+msgstr "Añadir nueva marca y modelo"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "News"
+msgstr "Noticias"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "No"
+msgstr "No"
+
+#. Text in function
+#: automotive-deluxe/comments.php:13
+msgid "No Comments"
+msgstr "No Comentarios"
+
+#. Text in echo
+#: automotive-deluxe/search.php:17
+msgid "No Results Found"
+msgstr "Búsqueda sin resultados"
+
+#. Text in function
+#: automotive-deluxe/assets/init/post-type.php:1
+msgid "No Vehicles Found"
+msgstr "Ningún vehículo encontrado"
+
+#. Text in function
+#: automotive-deluxe/assets/init/post-type.php:1
+msgid "No Vehicles Found In Trash"
+msgstr "No hay vehículos encontrados en Papelera"
+
+#. Text in echo
+#: automotive-deluxe/category.php:25 automotive-deluxe/archive.php:17
+#: automotive-deluxe/tag.php:25
+msgid "No, Results Found"
+msgstr "No se encontraron resultados"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "None"
+msgstr "Ninguno"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:371
+msgid "Number"
+msgstr "Número"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:726
+msgid "Number of Vehicles:"
+msgstr "Número de vehículos:"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:999
+msgid "Number of listings: "
+msgstr "Numero de Anuncios:"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:704
+msgid "Number of vehicles"
+msgstr "Número de vehículos"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:371
+msgid "Number of vehicles."
+msgstr "Número de vehículos."
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Office"
+msgstr "Oficina"
+
+#. Text in function
+#: automotive-deluxe/comments.php:13
+msgid "One Comment"
+msgstr "Un comentario"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:519
+msgid "Option 10:"
+msgstr "Opción 10:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:520
+msgid "Option 11:"
+msgstr "Opción 11:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:521
+msgid "Option 12:"
+msgstr "Opción 12:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:510 automotive-deluxe/functions.php:529
+msgid "Option 1:"
+msgstr "Opción 1:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:511 automotive-deluxe/functions.php:530
+msgid "Option 2:"
+msgstr "Opción 2:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:512 automotive-deluxe/functions.php:531
+msgid "Option 3:"
+msgstr "Opción 3:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:513 automotive-deluxe/functions.php:532
+msgid "Option 4:"
+msgstr "Opción 4"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:514
+msgid "Option 5:"
+msgstr "Opción: 5"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:515
+msgid "Option 6:"
+msgstr "Opción 6:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:516
+msgid "Option 7:"
+msgstr "Opción 7:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:517
+msgid "Option 8:"
+msgstr "Opción 8:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:518
+msgid "Option 9:"
+msgstr "Opción 9:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Other"
+msgstr "Otro"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Overall Length"
+msgstr "Longitud total"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Overall Length:"
+msgstr "Longitud total:"
+
+#. Text in echo
+#: automotive-deluxe/single-gtcd.php:34
+msgid "Overview"
+msgstr "General"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Pages"
+msgstr "Páginas "
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Parent Features"
+msgstr "Características principales"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Parent Locations"
+msgstr "Ubicaciones Parent"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Parent Make & Model"
+msgstr "Marca y Modelo:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Passenger Airbags"
+msgstr "Airbags acompañante"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1119
+msgid "Passenger Airbags:"
+msgstr "Airbag de pasajero:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "PayPal E-mail Account:"
+msgstr "E-mail de PayPal"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "PayPal Intro Message:"
+msgstr "Mensaje de introducción de PayPal:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:142
+msgid "Personal Information &raquo;"
+msgstr "Información personal»"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Phone"
+msgstr "Teléfono "
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:765
+msgid "Phone Number: "
+msgstr "Número de teléfono:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:160
+msgid "Phone number"
+msgstr "Numero de Teléfono"
+
+#. Text in function
+#: automotive-deluxe/single-gtcd.php:144
+msgid "Phone: "
+msgstr "Teléfono:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:1165
+#: automotive-deluxe/assets/import/file/includes/map.php:253
+#: automotive-deluxe/assets/import/schedule/includes/map.php:292
+msgid "Photo Gallery"
+msgstr "Galería de Fotos"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Pickup Trucks"
+msgstr "Camionetas"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:1567
+msgid "Pinterest Profile"
+msgstr "Perfil de Pinterest"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "Please Wait Message:"
+msgstr "Por favor espere (Mensaje)"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:
+msgid "Please click "
+msgstr "Por favor haga click"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/index.php:6
+msgid "Please follow the instructions below to import your existing vehicles into your Inventory."
+msgstr "Por favor siga las siguientes instrucciones para importar sus vehículos existentes en el inventario."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:6
+#: automotive-deluxe/assets/import/schedule/includes/map.php:6
+msgid "Please follow the instructions below to schedule your vehicle import into Car Dealer theme."
+msgstr "Por favor siga las siguientes instrucciones para programar su importación de vehículo en tema de concesionario de automóviles."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/complete.php:6
+msgid "Please follow the instructions below to schedule your vehicle import into Your Inventory."
+msgstr "Por favor siga las siguientes instrucciones para programar su importación de vehículos en su inventario."
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:164
+msgid "Please insert API Key!"
+msgstr "Por favor inserte el API Key!"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/list.php:6
+msgid "Please is a list of your vehicle import schedules for Car Dealer theme."
+msgstr "Por favor siga las siguientes instrucciones para programar su importación de vehículos"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "Please use the button below to complete your payment."
+msgstr "Utilice el botón de abajo para completar su pago."
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Plugins"
+msgstr "Plugins"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Posts"
+msgstr "Artículos "
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Power Door Locks"
+msgstr "Cierre centralizado"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1085
+msgid "Power Door Locks:"
+msgstr "Cierre centralizado"
+
+#. Text in echo
+#: automotive-deluxe/footer.php:16
+msgid "Powered by "
+msgstr "Desarrollado por %s."
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:129
+msgid "Preview"
+msgstr "Vista previa "
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:61 automotive-deluxe/functions.php:795
+#: automotive-deluxe/results.php:184
+msgid "Price"
+msgstr "Precio"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Price:"
+msgstr "Precio:"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/map.php:37
+msgid "Primary Key Field"
+msgstr "Clave primaria"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Primary theme text color."
+msgstr "Color de texto principal"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:260
+msgid "Purchase price: "
+msgstr "Precio de compra"
+
+#. Text in function
+#: automotive-deluxe/blog.php:22
+msgid "Read more"
+msgstr "Leer mas"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Rear Brake Diameter"
+msgstr "Diámetro de freno trasero"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1077
+msgid "Rear Brake Diameter:"
+msgstr "Diámetro del freno trasero:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Rear Suspension Type"
+msgstr "Tipo de suspensión trasera"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1115
+msgid "Rear Suspension Type:"
+msgstr "Suspension trasera"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "Redirection Page:"
+msgstr "Entrar página de redirección:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Reduced"
+msgstr "Rebajado"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:179
+msgid "Register a free account on Edmunds website to get your public API key in order to operate the VIN Decoder."
+msgstr "Registrar una cuenta gratuita en el sitio web Edmunds para obtener tu clave de API pública para funcionar el decodificador de VIN."
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:208
+msgid "Rename labels and options for the search module and hide-show each field in the form."
+msgstr "Cambiar el nombre de las etiquetas y las opciones para el módulo de búsqueda y ocultar-mostrar cada campo en el formulario."
+
+#. Text in echo
+#: automotive-deluxe/single-gtcd.php:139
+msgid "Request Information"
+msgstr "Solicitar información"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Roof Rack"
+msgstr "Portaequipajes"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1083
+msgid "Roof Rack:"
+msgstr "Portaequipajes:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Running Boards"
+msgstr "Estribos"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1081
+msgid "Running Boards:"
+msgstr "Estribos:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Sale"
+msgstr "¡Oferta!"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/theme-setup.php:194
+#: automotive-deluxe/assets/init/theme-setup.php:215
+msgid "Save Changes"
+msgstr "Salvar Cambios"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "Saving… please be patient!"
+msgstr "Por favor sea paciente"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/list.php:30
+msgid "Schedule Name"
+msgstr "Nombre de este programa de importación."
+
+#. Text in echo
+#: automotive-deluxe/searchform.php:3 automotive-deluxe/results.php:73
+msgid "Search"
+msgstr "Buscar "
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Search Background Color"
+msgstr "Color de fondo de los campos de búsqueda"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Search Features"
+msgstr "Características de module de bsuqeda"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Search Fields"
+msgstr "Campos de búsqueda"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Search Location"
+msgstr "Buscar ubicación"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Search Make & Model"
+msgstr "Buscar Marca & Modelo"
+
+#. Text in function
+#: automotive-deluxe/search.php:6
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Search Text Color"
+msgstr "Color del texto de búsqueda."
+
+#. Text in function
+#: automotive-deluxe/assets/init/post-type.php:1
+msgid "Search Vehicles"
+msgstr "Buscar Vehículos"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Search by Vehcile Type"
+msgstr "Búsqueda por tipo de Vehicle"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Search module background color"
+msgstr "Color de fondo del módulo de búsqueda"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Search module text color"
+msgstr "Color del texto de búsqueda."
+
+#. Text in echo
+#: automotive-deluxe/load.php:7 automotive-deluxe/header.php:100
+msgid "Searching Inventory..."
+msgstr "Buscando inventario..."
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Seating Capacity (Std)"
+msgstr "Capacidad de Asientos (Std.):"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Seating Capacity (Std):"
+msgstr "Capacidad de Asientos (Std.):"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:167
+msgid "Security Code"
+msgstr "Código de Seguridad"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Sedans and Coupes"
+msgstr "Sedanes y Coupes"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Select City"
+msgstr "Seleccione ciudad"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/map.php:256
+#: automotive-deluxe/assets/import/schedule/includes/map.php:295
+msgid "Select Field"
+msgstr "Seleccione campo"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/upload.php:6
+msgid "Select Import File"
+msgstr "Seleccionar archivo de importación"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:30
+msgid "Select Import File Type"
+msgstr "Seleccione tipo de archivo de importación"
+
+#. Text in function
+#: automotive-deluxe/results.php:655
+msgid "Select Make"
+msgstr "Seleccione marca"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:51
+msgid "Select Make First"
+msgstr "Seleccione Marca"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Select Model"
+msgstr "Seleccione Modelo"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/map.php:46
+msgid "Select Option"
+msgstr "Seleccionar opción"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/map.php:58
+msgid "Select Primary Key Field"
+msgstr "Seleccione el campo de clave principal"
+
+#. Text in function
+#: automotive-deluxe/results.php:655
+msgid "Select State"
+msgstr "Seleccionar Provincia"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:40
+msgid "Select State First"
+msgstr "Seleccionar Provincia"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:20
+msgid "Select Status"
+msgstr "Seleccionar Condicion"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Select vehicles by type."
+msgstr "Seleccione vehículos por tipo."
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "Sell Your Car Setup"
+msgstr "Configuración de Venda su Auto"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Sell your Car"
+msgstr "Venda su Auto"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Semi-Auto"
+msgstr "Semiautomático"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:90
+msgid "Separate with commas (feature1, feature2, etc)"
+msgstr "Separados con comas (característica1, característica2, etc.)"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/map.php:247
+#: automotive-deluxe/assets/import/schedule/includes/map.php:286
+msgid "Separator"
+msgstr "Separador"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Settings"
+msgstr "Configuracion"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Sidebar"
+msgstr "Barra lateral "
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:131
+msgid "Size"
+msgstr "Tamaño "
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Skype"
+msgstr "Skype"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Sold"
+msgstr "Vendido"
+
+#. Text in echo
+#: automotive-deluxe/category.php:26 automotive-deluxe/archive.php:18
+#: automotive-deluxe/tag.php:26
+msgid "Sorry, No Posts found!"
+msgstr "Lo sentimos, no hay entradas encontrado!"
+
+#. Text in echo
+#: automotive-deluxe/taxonomy.php:205 automotive-deluxe/inventory.php:194
+#: automotive-deluxe/results.php:331
+msgid "Sorry, no listings matched your criteria."
+msgstr "Lo sentimos, no hay listados que concuerdan con sus criterios."
+
+#. Text in echo
+#: automotive-deluxe/404.php:7
+msgid "Sorry, no results found. Please try another search"
+msgstr "Lo sentimos, no hay resultados. Por favor, intente otra búsqueda"
+
+#. Text in echo
+#: automotive-deluxe/results.php:170
+msgid "Sort By: "
+msgstr "Ordenar por:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Sport Utilities"
+msgstr "SUV"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Sports Cars"
+msgstr "Coches deportivos"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:237
+msgid "Start Year:"
+msgstr "Año de Inicio:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "State"
+msgstr "Estado/Provincia"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "State:"
+msgstr "Estado/provincia:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:132
+#: automotive-deluxe/assets/import/schedule/includes/list.php:31
+msgid "Status"
+msgstr "Condición"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Stock"
+msgstr "Stock"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Stock #:"
+msgstr "Stock #:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Stroke"
+msgstr "Línea"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Stroke:"
+msgstr "Linea:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:175
+#: automotive-deluxe/page-listing.php:178
+msgid "Submit & Pay for your listing"
+msgstr "Enviar y pagar tu anuncio"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:69
+msgid "Submit Comment"
+msgstr "Publicar un Comentario"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "Success Message:"
+msgstr "Mensaje de exito"
+
+#. Text in function
+#: automotive-deluxe/category.php:7 automotive-deluxe/tag.php:7
+msgid "Tag Archives: %s"
+msgstr "Etiquetas de archivos:  %s"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Text Color"
+msgstr "Color del Texto"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "Thank you for contacting us.</br></br"
+msgstr "¡Gracias por contactarnos!"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "Thank you for your submission!"
+msgstr "Gracias por su Publicación!"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/map.php:9
+#: automotive-deluxe/assets/import/file/includes/map.php:66
+msgid "The fields on the left are Car Dealer theme inventory fields"
+msgstr "Los campos de la izquierda son campos de inventario."
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:78
+msgid "There were"
+msgstr "Había"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Thinking about selling your current vehicle"
+msgstr "Pensando en vender su vehículo actual"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "This email address is already in use. If you already have an account please log in."
+msgstr "Esta dirección de correo electrónico ya está en uso. Si ya tienes una cuenta inicia sesión."
+
+#. Text in echo
+#: automotive-deluxe/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Este post está protegido. Introduce tu contraseña para ver los comentarios."
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Tires (Std)"
+msgstr "Neumáticos (Std.):"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Tires (Std):"
+msgstr "Neumáticos (Std):"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:371
+#: automotive-deluxe/sidebars/register-sidebars.php:704
+msgid "Title"
+msgstr "Título "
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:722
+msgid "Title:"
+msgstr "Título:"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:316
+#: automotive-deluxe/sidebars/register-sidebars.php:581
+#: automotive-deluxe/sidebars/register-sidebars.php:834
+msgid "Title: "
+msgstr "Título:"
+
+#. Text in echo
+#: automotive-deluxe/header.php:61
+msgid "Toggle Search"
+msgstr "Búsqueda"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Tools"
+msgstr "Herramientas"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Top Deal"
+msgstr "Oferta"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Top Deal?:"
+msgstr "Oferta?:"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Top Deals Widget in Sidebar"
+msgstr "Top Ofertas Widget en Sidebar"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Top Search Module"
+msgstr "Módulo de búsqueda"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Torque"
+msgstr "Torque"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Torque:"
+msgstr "Torque:"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:31
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Trailer Hitch"
+msgstr "Enganche de remolque"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1099
+msgid "Trailer Hitch:"
+msgstr "Enganche de remolque:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:198
+msgid "Trailer Wiring"
+msgstr "Cableado de remolque"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1097
+msgid "Trailer Wiring:"
+msgstr "Cableado de remolque:"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:95 automotive-deluxe/functions.php:795
+msgid "Transmission"
+msgstr "Transmisión"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Transmission:"
+msgstr "Transmisión:"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:1559
+msgid "Twitter Profile"
+msgstr "Perfil de Twitter"
+
+#. Text in echo
+#: automotive-deluxe/sidebars/register-sidebars.php:587
+msgid "URL for full page : "
+msgstr "URL de la página completa:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Update Features"
+msgstr "Actualizar Características"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Update Location"
+msgstr "Actualizar Ubicación"
+
+#. Text in function
+#: automotive-deluxe/assets/init/taxonomies.php:1
+msgid "Update Make & Model"
+msgstr "Actualización marca y modelo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:1330
+msgid "Upload Images"
+msgstr "Subir Imágenes"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:116
+msgid "Upload Photos"
+msgstr "Subir fotos"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:1330
+msgid "Upload or Choose Your Custom Image File"
+msgstr "Subir o elegir el archivo de imagen personalizada"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+msgid "Used"
+msgstr "Usado"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "User Already Exists Message:"
+msgstr "Usuario ya existe (mensaje):"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "Users"
+msgstr "Usuarios"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/metaboxes.php:1165
+msgid "VIEW PHOTO GALLERY AND FULL VEHICLE DETAILS"
+msgstr "VER GALERÍA DE FOTOS Y DETALLES DEL VEHICULO COMPLETO"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:85 automotive-deluxe/functions.php:795
+msgid "VIN"
+msgstr "VIN"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:763
+msgid "VIN Decoder"
+msgstr "Decodificador de VIN"
+
+#. Text in function
+#: automotive-deluxe/assets/init/theme-setup.php:121
+#: automotive-deluxe/assets/init/theme-setup.php:160
+msgid "VIN Decoder Setup"
+msgstr "Configuración del decodificador de VIN"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "VIN:"
+msgstr "VIN:"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/metaboxes.php:812
+msgid "VIN: "
+msgstr "VIN:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Valves"
+msgstr "Válvulas"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Valves per Cylinder:"
+msgstr "Válvulas por cilindro:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:763
+#: automotive-deluxe/assets/init/post-type.php:1
+msgid "Vehicle Information"
+msgstr "Información del Vehículo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:763
+msgid "Vehicle Overview"
+msgstr "Información del vehículo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/post-type.php:1
+msgid "Vehicle Photo"
+msgstr "Foto de vehículo"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:763
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "Vehicle Specifications"
+msgstr "Especificaciones del vehículo"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/map.php:94
+#: automotive-deluxe/assets/import/schedule/includes/map.php:88
+msgid "Vehicle Title"
+msgstr "Título del vehículo"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:99 automotive-deluxe/functions.php:795
+msgid "Vehicle Type"
+msgstr "Tipo de Vehículo"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Vehicle Type:"
+msgstr "Tipo de Vehículo"
+
+#. Text in echo
+#: automotive-deluxe/single-gtcd.php:43
+msgid "Video"
+msgstr "Video "
+
+#. Text in echo
+#: automotive-deluxe/functions.php:1266
+msgid "Video ID"
+msgstr "ID del vídeo"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:1270
+msgid "Video Source"
+msgstr "Fuente de video:"
+
+#. Text in echo
+#: automotive-deluxe/taxonomy.php:197 automotive-deluxe/inventory.php:186
+#: automotive-deluxe/results.php:323
+#: automotive-deluxe/sidebars/register-sidebars.php:695
+#: automotive-deluxe/arrivals.php:120
+msgid "View Details"
+msgstr "Ver  Detalles"
+
+#. Text in function
+#: automotive-deluxe/assets/init/post-type.php:1
+msgid "View Vehicle"
+msgstr "Ver Vehículo"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "Views"
+msgstr "Vistas\t"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:1273
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Wagons"
+msgstr "Vagones"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:66
+msgid "Website"
+msgstr "Website"
+
+#. Text in echo
+#: automotive-deluxe/assets/init/metaboxes.php:1165
+msgid "Website:"
+msgstr "Website:"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Wheelbase"
+msgstr "Distancia entre ejes"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Wheelbase:"
+msgstr "Distancia entre ejes:"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:371
+msgid "Widget title."
+msgstr "Título del widget"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Widgets Background Color"
+msgstr "Color de Fondo de Widgets"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Widgets background color"
+msgstr "Color de Fondo de Widgets"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Widgets header background color."
+msgstr "Color de fondo de la cabecera de widgets."
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "Widgets header text color."
+msgstr "Color de texto de encabezado de widgets."
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Width"
+msgstr "Ancho"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Width:"
+msgstr "Ancho:"
+
+#. Text in echo
+#: automotive-deluxe/footer.php:17
+msgid "WordPress"
+msgstr "WordPress "
+
+#. Text in echo
+#: automotive-deluxe/assets/import/schedule/includes/url.php:31
+#: automotive-deluxe/assets/import/file/includes/upload.php:7
+msgid "XML"
+msgstr "XML"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:55 automotive-deluxe/functions.php:795
+#: automotive-deluxe/results.php:183
+msgid "Year"
+msgstr "Año"
+
+#. Text in function
+#: automotive-deluxe/functions.php:795
+msgid "Year:"
+msgstr "Año:"
+
+#. Text in function
+#: automotive-deluxe/assets/init/metaboxes.php:953
+#: automotive-deluxe/sidebars/register-sidebars.php:620
+#: automotive-deluxe/sidebars/register-sidebars.php:850
+#: automotive-deluxe/sidebars/register-sidebars.php:868
+msgid "Yes"
+msgstr "Si "
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:124
+msgid "You may upload up to 12 images and each image may be no larger than 5MB"
+msgstr "Puede subir imágenes de hasta 12 y cada imagen puede ser no más de 5MB"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:58
+msgid "You must be "
+msgstr "Usted debe ser"
+
+#. Text in echo
+#: automotive-deluxe/functions.php:1272
+msgid "YouTube"
+msgstr "YouTube"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:33
+msgid "Your State"
+msgstr "Tu estado"
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:22
+msgid "Your Vehicle Information &raquo;"
+msgstr "Información del Vehículo»"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:38
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario esta pendiente de moderación."
+
+#. Text in echo
+#: automotive-deluxe/page-listing.php:26
+msgid "Your listing title"
+msgstr "Título del listado"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:850
+msgid "_featured"
+msgstr "_featured"
+
+#. Text in function
+#: automotive-deluxe/assets/customizer/editor.php:1
+msgid "color of the header text logo"
+msgstr "color del logo de texto de encabezado"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:
+msgid "here"
+msgstr "aquí"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "http://www.automaxclean.dev"
+msgstr "http://www.automaxclean.dev"
+
+#. Text in function
+#: automotive-deluxe/assets/init/post-type.php:1
+msgid "inventory"
+msgstr "inventario"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:58
+msgid "logged in"
+msgstr "conectado"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1102
+msgid "more"
+msgstr "más"
+
+#. Text in echo
+#: automotive-deluxe/assets/import/file/includes/import.php:77
+msgid "pending"
+msgstr "pendiente"
+
+#. Text in function
+#: automotive-deluxe/functions.php:1474
+msgid "sales@automaxclean.dev"
+msgstr "sales@automaxclean.dev"
+
+#. Text in function
+#: automotive-deluxe/sidebars/register-sidebars.php:1214
+msgid "sell-your-car"
+msgstr "sell-your-car"
+
+#. Text in echo
+#: automotive-deluxe/comments.php:58
+msgid "to post a comment."
+msgstr "para publicar un comentario."
+
+#. Text in function
+#: automotive-deluxe/single-gtcd.php:109
+msgid " with Stock Number #"
+msgstr " con Stock #"
+
+msgid "Vehicle information request"
+msgstr "Información de Vehículo"
+
+msgid "Purchase Type"
+msgstr "Tipo de compra"
+
+msgid "Stock Number"
+msgstr "Numero de Stock"
+
+msgid "First Name"
+msgstr "Nombre"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Select Transmission"
+msgstr "Transmisión"
+
+msgid "Select Type"
+msgstr "Tipo de Vehículo"
+
+msgid "Enter security code"
+msgstr "Codigo de seguridad"
+
+msgid "Select Year"
+msgstr "Año"
+
+msgid "Enter vehicle listing description."
+msgstr "Descripción de su vehículo"
