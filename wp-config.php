@@ -1,5 +1,5 @@
 <?php
-/**felohscodes
+/**
  * The base configuration for WordPress
  *
  * The wp-config.php creation script uses this file during the installation.
@@ -8,7 +8,7 @@
  *
  * This file contains the following configurations:
  *
- * * MySQL settings
+ * * MySQL settings savali S codes
  * * Secret keys
  * * Database table prefix
  * * ABSPATH
@@ -90,7 +90,7 @@ define('SAVEQUERIES', true);
 
 
 
-/* That's all, stop editing! Happy publishing. */
+/* That's all, stop editing! Happy publishing. wejofe was*/ 
 
 /** Absolute path to the WordPress directory. */
 if ( ! defined( 'ABSPATH' ) ) {

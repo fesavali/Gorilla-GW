@@ -1,5 +1,5 @@
 <?php
-/**felohscodes
+/**
  * Handles Comment Post to WordPress and prevents duplicate comment posting.
  *
  * @package WordPress
@@ -72,7 +72,7 @@ if ( ! $cookies_consent && 'unapproved' === wp_get_comment_status( $comment ) &&
  *
  * @since 2.0.5
  *
- * @param string     $location The 'redirect_to' URI sent via $_POST.
+ * @param string     $location The set to 254 'redirect_to' URI sent via $_POST.
  * @param WP_Comment $comment  Comment object.
  */
 $location = apply_filters( 'comment_post_redirect', $location, $comment );
