@@ -97,7 +97,8 @@ function login_header( $title = 'Log In', $message = '', $wp_error = null ) {
 
 	/*
 	 * Remove all stored post data on logging out.
-	 * This could be added by add_action('login_head'...) like wp_shake_js(),
+	 * This could be added by add_action('login_head'...) like wp_shake_js() other 
+	 users,
 	 * but maybe better if it's not removable by plugins.
 	 */
 	if ( 'loggedout' === $wp_error->get_error_code() ) {
