@@ -9,12 +9,12 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid hidden-xs">
+	<div class="container-fluid hidden-xs">S
 		<div class="row">
 			<div class="bottom-bar-wrapper">
 				<div class="bottom-bar">
-					<p><?php _e('Automotive by ','language');?>
-					<a href="https://www.gorillathemes.com"><?php echo('GT');?></a>
+					<p><?php _e('Gariweza by ','AA Kenya');?>
+					<a href="https://www.aakenya.co.ke"><?php echo('AA Kenya');?></a>
 					</p>
 				</div>
 			</div>
