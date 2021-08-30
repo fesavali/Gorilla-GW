@@ -1,4 +1,6 @@
 <?php
+
+// work on images here, resizing, cropping
 /**
  * File contains all the administration image manipulation functions.
  *
