@@ -7,6 +7,7 @@
 
 // Gots to do it!
 session_start();
+// do if isset btn on form here
 
 // Init vars to track errors & status.
 if (!isset($_SESSION['gt_form'])) {
