@@ -1,6 +1,6 @@
 <?php
 
-// work on images here, resizing, cropping, posting, previewing and displaying.
+// work on images here, resizing, cropping, , previewing and displaying.
 /**
  * File contains all the administration image manipulation functions.
  *
