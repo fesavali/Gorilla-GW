@@ -4,27 +4,29 @@
  * @file
  * Submit handler for Sell Your Car form.
  */
-
+if(isset($_POST['submit'])){
+	
+}
 // Gots to do it!
 session_start();
 // do if isset btn on form here
 
 // Init vars to track errors & status.
-// if (!isset($_SESSION['gt_form'])) {
-//   $defaults = gt_default_form_values();
+if (!isset($_SESSION['gt_form'])) {
+  $defaults = gt_default_form_values();
 
-//   $_SESSION['gt_form'] = (object) array(
-//     'errors' => array(),
-//     'submitted' => FALSE,
-//     'valid' => FALSE,
-//     'user' => $defaults['user'],
-//     'data' => $defaults['data'],
-//     'uploads' => array(),
-//   );
-// }
+  $_SESSION['gt_form'] = (object) array(
+    'errors' => array(),
+    'submitted' => FALSE,
+    'valid' => FALSE,
+    'user' => $defaults['user'],
+    'data' => $defaults['data'],
+    'uploads' => array(),
+  );
+}
 
-// // Alias for convenience & less verbose code.
-// $FORM =& $_SESSION['gt_form'];
+// Alias for convenience & less verbose code.
+$FORM =& $_SESSION['gt_form'];
 
 // If no submission, we're done, go render the form!
 if (empty($_POST)) return;
