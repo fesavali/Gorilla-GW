@@ -7,7 +7,7 @@
  * @package WordPress
  * @subpackage Administration
  */
-
+  
 /**
  * Crops an image to a given size.
  *

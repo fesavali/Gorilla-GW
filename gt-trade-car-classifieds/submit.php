@@ -35,19 +35,19 @@ $FORM->errors = array();
 
 // Ok, we've got a submission to process! First things first: let's check our
 // nonce.
-if (!wp_verify_nonce($_POST['nonce'], 'gt-sell-your-car')) {
-  // Let's just blame captcha instead.
-  // @TODO remove specific message.
-  $FORM->errors['security_code3'] = 'Invalid security code';
-}
+// if (!wp_verify_nonce($_POST['nonce'], 'gt-sell-your-car')) {
+//   // Let's just blame captcha instead.
+//   // @TODO remove specific message.
+//   $FORM->errors['security_code3'] = 'Invalid security code';
+// }
 
-// Hmmm ok, let's also check our honeypot. This field is visually hidden via
-// CSS and should never get filled.
-if (!empty($_POST['referringurl'])) {
-  // Let's just blame captcha instead.
-  // @TODO remove specific message.
-  $FORM->errors['security_code3'] = 'Invalid security code';
-}
+// // Hmmm ok, let's also check our honeypot. This field is visually hidden via
+// // CSS and should never get filled.
+// if (!empty($_POST['referringurl'])) {
+//   // Let's just blame captcha instead.
+//   // @TODO remove specific message.
+//   $FORM->errors['security_code3'] = 'Invalid security code';
+// }
 
 // Finally, let's test our captcha...
 if (empty($_SESSION['security_code3']) || empty($_POST['security_code3'])
