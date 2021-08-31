@@ -50,11 +50,11 @@ $FORM->errors = array();
 // }
 
 // Finally, let's test our captcha...
-if (empty($_SESSION['security_code3']) || empty($_POST['security_code3'])
-  || ($_SESSION['security_code3'] !== sanitize_text_field($_POST['security_code3']))) {
-  // @TODO remove specific message.
-  $FORM->errors['security_code3'] = 'Invalid security code';
-}
+// if (empty($_SESSION['security_code3']) || empty($_POST['security_code3'])
+//   || ($_SESSION['security_code3'] !== sanitize_text_field($_POST['security_code3']))) {
+//   // @TODO remove specific message.
+//   $FORM->errors['security_code3'] = 'Invalid security code';
+// }
 
 // Ok, looks like we're not gonna get outta processing this thing! :P
 // Lets check the submitted fields one by one.
