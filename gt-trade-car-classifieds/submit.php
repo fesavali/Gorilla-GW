@@ -5,7 +5,7 @@
  * Submit handler for Sell Your Car form.
  */
 if(isset($_POST['submit'])){
-	
+	echo "You are here Felix What do you wanna do";
 }
 // Gots to do it!
 session_start();
