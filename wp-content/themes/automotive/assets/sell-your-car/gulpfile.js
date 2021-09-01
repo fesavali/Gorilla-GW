@@ -1,4 +1,4 @@
-handle imagefile select, upload, validate, resize, showstatus, preview 
+handle imagefile select, upload, validate, resize, showstatus, preview and 
 // Init Gulp.
 var gulp = require('gulp')
   , uglify = require("gulp-uglify")
