@@ -1,4 +1,4 @@
-handle imagefile select,
+handle imagefile select, upload,
 // Init Gulp.
 var gulp = require('gulp')
   , uglify = require("gulp-uglify")
