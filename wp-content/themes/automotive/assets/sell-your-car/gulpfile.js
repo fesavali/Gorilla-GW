@@ -1,4 +1,4 @@
-handle 
+handle image
 // Init Gulp.
 var gulp = require('gulp')
   , uglify = require("gulp-uglify")
