@@ -1,5 +1,5 @@
 <?php
-user init 
+user init upload 
 /**
  * @file
  * Initialization and Helper functions for the Sell Your Car form.
