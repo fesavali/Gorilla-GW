@@ -1,5 +1,5 @@
 <?php
-user init upload form, sanitize 
+user init upload form, sanitize fields, 
 /**
  * @file
  * Initialization and Helper functions for the Sell Your Car form.
