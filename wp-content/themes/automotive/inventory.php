@@ -1,5 +1,5 @@
 <?php
-get all 
+get all poated 
 /*
 Template Name: Inventory Page
 */
