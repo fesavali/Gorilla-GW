@@ -1,4 +1,5 @@
 <?php
+get
 /*
 Template Name: Inventory Page
 */
