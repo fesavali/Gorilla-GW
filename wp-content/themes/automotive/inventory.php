@@ -1,5 +1,5 @@
 <?php
-get all poated cars
+get all poated cars and
 /*
 Template Name: Inventory Page
 */
