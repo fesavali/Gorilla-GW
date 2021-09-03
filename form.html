@@ -1,0 +1,198 @@
+<form id="sell-your-car" name="sell_your_car" method="POST" action="http://localhost/wordpress/wp-content/themes/automotive/assets/sell-your-car/submit.php" class="gt-form form-inline" enctype="multipart/form-data" validate="validate">
+<h3 class="form-title" style="padding-left: 20px !important;">Enter Vehicle Information » </h3>
+<label class="gt-title" for="gt-title" style="padding-left: 20px;">Your listing title</label>
+<input class="form-control" type="text" id="gt-title" value="" tabindex="2" name="title" placeholder="Enter listing title" required="" style="text-transform:uppercase">
+<div style="clear: both"></div>
+<div class="form-group" style="padding-left: 40px;">
+<label class="sr-only" for="gt-make">Make</label>
+<select name="make" id="gt-make" class="gt-select" tabindex="3" style=" width: 100%;
+   padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: rgba(0,0,0,0.5);
+  color: white;">
+<option value="-1">Select Make</option>
+<option class="level-0" value="Acura" data-value="10">Acura</option>
+<option class="level-0" value="Audi" data-value="19">Audi</option>
+<option class="level-0" value="BMW" data-value="25">BMW</option>
+<option class="level-0" value="Cadillac" data-value="26">Cadillac</option>
+<option class="level-0" value="Chevrolet" data-value="30">Chevrolet</option>
+<option class="level-0" value="Chrysler" data-value="31">Chrysler</option>
+<option class="level-0" value="Honda" data-value="52">Honda</option>
+<option class="level-0" value="Infiniti" data-value="53">Infiniti</option>
+<option class="level-0" value="Jeep" data-value="55">Jeep</option>
+<option class="level-0" value="Land Rover" data-value="57">Land Rover</option>
+<option class="level-0" value="Mercedez Benz" data-value="68">Mercedez Benz</option>
+<option class="level-0" value="Nissan" data-value="73">Nissan</option>
+<option class="level-0" value="Porsche" data-value="82">Porsche</option>
+</select>
+</div>
+ 
+  
+  
+<div class="form-group r">
+<label class="sr-only" for="gt-model">Model</label><span class="gt-loading makemodel"></span>
+<select name="model" id="gt-model" tabindex="4" class="gt-select" disabled="disabled" data-value="" style=" width: 100%;
+   padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: rgba(0,0,0,0.5);
+  color: white;">
+<option value="" data-value="-1">Select make first</option>
+</select>
+</div>
+<label class="sr-only" for="gt-year">Year of Manufacture</label>
+<select id="gt-year" name="year" class="gt-select" tabindex="5" style=" width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: rgba(0,0,0,0.5);
+  color: white;"><option value="-1">Year of Manufacture</option><option value="2021">2021</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option></select> 
+<div style="clear:both"></div>
+  
+  <div style="width:100%; margin-right: -10px; padding:0px;">
+ <input class="form-control" type="text" id="gt-price" value="" name="price" placeholder="Enter vehicle Price (Ksh)" required="" style="width:100%; float: left; height:40px; margin-left: 17px;"> 
+ 
+ <input class="form-control" type="number" id="gt-miles" min="0" value="" tabindex="7" name="miles" placeholder="Enter mileage (Kms)" required="" digits=""style="width:100%; float: right; height:40px;"> 
+                      
+<input class="form-control" type="text" id="gt-vin" value="" tabindex="11" name="vin" placeholder="Enter vehicle Plate number" required="" style="width:100%; float: center; height:40px; text-transform:uppercase">                          
+  </div>
+<select class="gt-select" id="gt-exterior" value="" tabindex="8" name="exterior" required="" style="width:50%; float: left; height:40px; margin-left: 80px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: rgba(0,0,0,0.5);
+  color: white;">
+  <option value="-1" selected="selected">Select Color</option>
+  <option value="White">White</option>
+  <option value="Black">Black</option>
+  <option value="Silver">Silver</option>
+  <option value="Green">Green</option>
+  <option value="Dark Green">Dark Green</option>
+  <option value="Blue">Blue</option>
+  <option value="Dark Blue">Dark Blue</option>
+  <option value="Brown">Brown</option>
+  <option value="Yellow">Yellow</option>
+  <option value="Other">Other</option>
+  </select>
+  
+ <select class="gt-select" id="gt-interior" value="" tabindex="9" name="interior" placeholder="Enter interior color" required="" style="width:50%; float: center; height:40px; margin-left: 20px; padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: rgba(0,0,0,0.5);
+  color: white;">
+  <option value="-1" selected="selected">Interior Type</option>
+  <option value="Brown">Leather</option>
+  <option value="Yellow">Cloth</option>
+  <option value="Other">Other</option>
+ </select>  </br>
+ 
+<select class="gt-select" id="gt-drive" value="" tabindex="10" name="drive" placeholder="Enter Fuel Type" required="" style="width:100%; float: left; height:40px; margin-left: 40px;  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: rgba(0,0,0,0.5);
+  color: white;">
+  <option value="-1" selected="selected">Select Fuel Type</option>
+  <option value="Petrol">Petrol</option>
+  <option value="Diesel">Diesel</option>
+  <option value="Hybrid">Hybrid</option>
+    <option value="Diesel-Hybrid">Diesel-Hybrid</option>
+    <option value="Electic">Electic</option>
+    <option value="Other">Other</option>
+ </select></br>
+
+<h3 class="form-title" style="padding-left: 20px !important; float: center !Ipmportant;">Select Vehicle Features » </h3>
+
+<label><input class="form-control" type="checkbox" value="4WD/AWD," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-left: 80px;">&nbsp;4WD/AWD</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value=" ABS Brakes," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp; ABS Brakes</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Air Conditioning," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Air Conditioning</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Alloy Wheels," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Alloy Wheels</input></label>
+
+<label><input class="form-control" type="checkbox" value="AM/FM Stereo," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-left: 80px;">&nbsp;AM/FM Stereo</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value=" Automatic Transmission," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp; Automatic Transmission</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Auxiliary Audio Input," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Auxiliary Audio Input</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="CD Audio," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;CD Audio</input></label>
+
+<label><input class="form-control" type="checkbox" value="Cruise Control," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-left: 80px;">&nbsp;Cruise Control</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Front Seat Heaters," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp; Front Seat Heaters</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Leather Seats," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Leather Seats</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Memory Seat(s)," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Memory Seat(s)</input></label>
+
+<label><input class="form-control" type="checkbox" value=" Navigation System," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-left: 80px;">&nbsp; Navigation System</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Overhead Airbags," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp; Overhead Airbags</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Panoramic Sunroof," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Panoramic Sunroof</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Parking Sensors," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Parking Sensors</input></label>
+
+<label><input class="form-control" type="checkbox" value=" Power Locks," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-left: 80px;">&nbsp;Power Locks</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Power Mirrors," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp; Power Mirrors</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value=" Power Seat(s)," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp; Power Seat(s)</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Power Windows," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Power Windows</input></label>
+
+<label><input class="form-control" type="checkbox" value=" Premium Package," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-left: 80px;">&nbsp;Premium Package</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Rear Defroster," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Rear Defroster</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value=" Rear View Camera," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Rear View Camera</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox"  value="Satellite Radio Ready," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Satellite Radio Ready</input></label>
+
+<label><input class="form-control" type="checkbox" value="Side Airbags," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-left: 80px;">&nbsp;Side Airbags</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="SiriusXM Trial Avail," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;SiriusXM Trial Avail</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox"  value="Technology Package," name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Technology Package</input></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label><input class="form-control" type="checkbox" value="Traction Control" name="features" style="width: 15px !Important; height: 15px !Important; position: inline; padding-top: 0px;">&nbsp;Traction Control</input></label>
+
+<div class="form-group" style="padding-left: 40px;">
+<label class="sr-only" for="gt-transmission">Transmission</label>
+<select id="gt-transmission" name="transmission" class="gt-select" tabindex="13" style=" width: 100%;
+   padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: rgba(0,0,0,0.5);
+  color: white;"><option value="-1">Transmission</option><option value="Automatic">Automatic</option><option value="Manual">Manual</option><option value="Semi-Auto">Semi-Auto</option><option value="None">None</option></select></div>
+  
+<div class="form-group" style="padding-left: 40px;">
+<label class="sr-only" for="gt-type">Vehicle Type</label>
+<select id="gt-type" name="type" class="gt-select" tabindex="14" style=" width: 100%;
+   padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: rgba(0,0,0,0.5);
+  color: white;"><option value="-1">Vehicle Type</option>
+  <option value="Convertibles">Convertibles</option>
+  <option value="Hatchbacks">Hatchbacks</option>
+  <option value="SUVs">SUVs</option>
+  <option value="Station Wagons">Station Wagons</option>
+   <option value="Pickup Trucks">Pickup Trucks</option>
+  <option value="Buses, Taxis and Vans">Buses, Taxis and Vans</option>
+  <option value="Motorbikes">Motorbikes</option>
+  <option value="Trucks">Trucks</option>
+  <option value="Machinery and Tractors">Machinery and Tractors</option>
+  <option value="Trailers">Trailers</option>
+  <option value="Minis">Minis</option>
+  <option value="Coupes">Coupes</option>
+  <option value="Quad Bikes">Quad Bikes</option>
+   <option value="Other">Other</option>
+  </select></div>
+<textarea required="" placeholder="Enter vehicle listing description." id="gt-description" name="description" tabindex="20" cols="50" rows="10" class="textarea medium"></textarea>
+<label class="btn btn-success btn-file">
+Upload Photos<input class="form-control" id="fileupload" type="file" name="images[]" tabindex="21" style="display:none" value="Upload Photos" multiple="">
+</label>
+<div class="upload-instructions">
+<span class="instructions">Images will be automatically resized to fit the listing layout. We recommend that you upload photos in full resolution for better results.</span>
+<span class="instructions-cont">You may upload up to 12 images and each image may be no larger than 5MB</span>
+ <div id="upload-result">
+<table id="uploaded-files">
+<thead>
+<tr>
+<th>Preview</th>
+<th>Name</th>
+<th>Size</th>
+<th>Status</th>
+<th></th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+</div>
+</div>
+<h3 class="form-title" style="padding-left: 20px !important; float: center !Ipmportant;">Personal Information</h3>
+
+<input class="form-control" type="text" id="gt-firstname" value="" tabindex="22" name="firstname" placeholder="Enter first name" required="" style="float:left; text-transform:uppercase"></input>
+
+<input class="form-control" type="text" id="gt-lastname" value="" tabindex="23" name="lastname" placeholder="Enter last name" required="" style="float:right;text-transform:uppercase"></input>
+
+<input class="form-control" type="email" id="gt-email" value="" tabindex="24" name="email" placeholder="Enter your e-mail address " required="" style="float:left;"></input>
+
+<input class="form-control" type="number" id="gt-phone" value="" tabindex="25" name="phone" placeholder="Enter phone number" required="" style="float:right;"></input>
+<label class="">
+
+</label>
+
+<button type="submit" class="btn btn-primary btn-info-full next-step" name="submit">Submit &amp; pay for your listing</button>
+<!-- <a href="http://localhost/wordpress/wp-content/themes/automotive/assets/sell-your-car/submit.php">hhhss</a> -->
+</form>
+
